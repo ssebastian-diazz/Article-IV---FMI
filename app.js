@@ -30,7 +30,6 @@ fetch("dataset.json")
   });
 
 function init() {
-  renderMastheadStats();
   renderRibbonChart();
   renderAgreementChart();
   renderRankLists();
@@ -57,33 +56,7 @@ function setupTabs() {
   });
 }
 
-/* ---------------- Masthead stats ---------------- */
 
-function renderMastheadStats() {
-  const recs = DATA.recommendations;
-  const total = recs.length;
-  const years = DATA.meta.years.length;
-  const categories = DATA.meta.categories.length;
-  const fullAgree = recs.filter(
-    (r) => r.agreement_label === "Acepta / implementa"
-  ).length;
-  const pct = Math.round((fullAgree / total) * 100);
-
-  const stats = [
-    { value: total, label: "Recomendaciones" },
-    { value: years, label: "Años cubiertos" },
-    { value: categories, label: "Categorías" },
-    { value: pct + "%", label: "Aceptadas sin matices" },
-  ];
-
-  const el = document.getElementById("masthead-stats");
-  el.innerHTML = stats
-    .map(
-      (s) =>
-        `<div class="mstat"><div class="mstat-value">${s.value}</div><div class="mstat-label">${s.label}</div></div>`
-    )
-    .join("");
-}
 
 /* ---------------- Ribbon chart (custom SVG stacked columns) ---------------- */
 
