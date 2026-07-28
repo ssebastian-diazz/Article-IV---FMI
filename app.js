@@ -16,7 +16,7 @@ const AGREE_COLORS = {
 
 let DATA = null;
 
-fetch("data/dataset.json")
+fetch("dataset.json")
   .then((r) => r.json())
   .then((data) => {
     DATA = data;
