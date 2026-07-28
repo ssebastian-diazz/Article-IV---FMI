@@ -1,0 +1,3754 @@
+{
+  "meta": {
+    "title": "Recomendaciones de política monetaria del FMI a México, 2015-2025",
+    "source": "Consultas del Artículo IV del FMI, sección Key Issues / Recomendaciones de política monetaria",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "categories": [
+      "Tasa de Política",
+      "Comunicación",
+      "Tipo de Cambio",
+      "Marco de Política Monetaria",
+      "Instrumentos y Balance",
+      "Otros"
+    ],
+    "agreement_scale": [
+      "Acepta / implementa",
+      "Acepta parcialmente",
+      "Reconoce el punto pero no se compromete",
+      "Rechaza o defiende postura contraria",
+      "Sin respuesta directa identificable"
+    ]
+  },
+  "recommendations": [
+    {
+      "id": 1,
+      "year": 2015,
+      "thesis": "Inflation pressures have been subdued: after a one-off adjustment in the price level in the first quarter, core and headline inflation have stayed close to the 3-percent target on an annualized seasonally-adjusted basis.",
+      "body": "The lack of inflation pressures is partly due to significant reductions in energy and other commodity prices, which have helped keep production costs down both in Mexico and in its main trading partners. A mild pass-through from the exchange rate depreciation has been visible only in durable goods prices, with no signs of spillovers to other prices or wages. In the baseline projection, slack in the economy is expected to diminish only gradually over the next two years, keeping inflation pressures in check. Staff noted that, in this context, continued monetary accommodation would remain appropriate in the near term.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Las autoridades reafirman su compromiso con el objetivo de inflación y no contradicen la postura acomodaticia vigente.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 2,
+      "year": 2015,
+      "thesis": "The flexible exchange rate should continue to play a key role in helping the economy adjust to external shocks.",
+      "body": "The authorities' policy framework gives a central role to exchange rate flexibility, while allowing for temporary foreign exchange intervention to reduce excess volatility. Deep financial markets have allowed investors to hedge foreign exchange risks, while leaving yields on domestic currency debt instruments broadly unchanged. Going forward, the currency depreciation would help boost manufacturing exports.13",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Reiteran su compromiso con la flexibilidad cambiaria como mecanismo central de ajuste.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 3,
+      "year": 2015,
+      "thesis": "Staff encouraged the authorities to phase out the daily foreign exchange sales, and focus the use of reserves on periods of disorderly market conditions.",
+      "body": "In the context of relatively orderly market conditions, the daily interventions without minimum price could be phased out to conserve policy space, while continuing to rely on other intervention modalities to reduce volatility during periods of very low market liquidity. Further down the road, gradual reserve accumulation should resume once pressures on asset prices subside to restore reserve buffers.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Aceptan replegar las intervenciones diarias, pero lo condicionan a que la volatilidad ceda, no de inmediato.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 4,
+      "year": 2016,
+      "thesis": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "body": "Staff analysis suggests that Mexico's policy rate is currently close to the estimated neutral rate, which is consistent with a small output gap, headline and core inflation at the target, moderate wage increases, and anchored inflation expectations (Box 4). In the baseline projection, demand pressures are expected to remain subdued over the next year, while inflation would rise temporarily above 3 percent due to relative price changes before converging to the inflation target in 2018. Staff argued that under the baseline forecast for output and inflation, a pause in monetary policy tightening is warranted. Risks to the inflation outlook are broadly balanced. Upside risks to the inflation outlook include a greater-than-expected increase in fuel prices and a possible intensification of pass-through effects from the currency depreciation. However, second-round effects are likely to remain limited as demand pressures are subdued and medium-term inflation expectations are well-anchored. In that context, a temporary move of inflation above the target due to relative price changes in tradable versus non-tradable goods would not necessarily warrant a policy response. On the downside, risks to the growth outlook have increased. If these risks materialize, increasing slack in the economy would ease wage and inflation pressures. Future monetary policy decisions should remain data driven, and clear communication by the central bank will continue to be important in guiding market expectations.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que el alza reciente no inicia un ciclo de endurecimiento y que responderán de forma flexible según datos.",
+      "persistence": {
+        "max_sim_prior": 0.32,
+        "most_similar_prior_id": 1,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 5,
+      "year": 2016,
+      "thesis": "There was agreement that the flexible exchange rate should continue to play the role of a key shock absorber should tail risks materialize.",
+      "body": "A flexible adjustment of the exchange rate will be indispensable to restore equilibrium in response to a permanent shock arising from increased protectionism and rising barriers to trade. The authorities have a wide range of tools to prevent disorderly market conditions, including discretionary foreign exchange interventions, targeted liquidity provision, and debt duration management. The FCL arrangement, which the authorities continue to treat as precautionary, remains an important complement to reserve buffers, providing protection against tail risks.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Coinciden en que la flexibilidad cambiaria debe seguir siendo el amortiguador principal.",
+      "persistence": {
+        "max_sim_prior": 0.214,
+        "most_similar_prior_id": 2,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 6,
+      "year": 2017,
+      "thesis": "The pause in the monetary policy tightening cycle was appropriate.",
+      "body": "The Bank of Mexico (Banxico) has kept its policy rate at 7.0 percent since July, and noted in its latest quarterly report that the balance of risks to inflation had turned neutral. While acknowledging that the 400-basis point tightening was successful in keeping medium- and long-term inflation expectations well anchored, staff noted that, with inflation projected to soon enter a downward trajectory, the pause in the monetary policy tightening cycle was warranted.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Consideran adecuada la postura vigente para converger a la meta hacia fines de 2018.",
+      "persistence": {
+        "max_sim_prior": 0.231,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 7,
+      "year": 2017,
+      "thesis": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexico should ease monetary policy as soon as inflation is firmly on a downward path.",
+      "body": "Staff estimates that the current monetary stance is tight given that the ex-ante real policy rate exceeds 3 percent, close to the upper bound of Banxico's estimated fluctuation range for the neutral rate. In 2016, staff estimated the real neutral rate at 1-1.5 percent. With inflation projected to decline rapidly in early- 2018 and with fiscal policy set to remain contractionary, and given a negative, albeit small, output gap, staff recommended a reduction in the policy rate as soon as inflation is firmly on a downward path, and as long as inflation expectations remain well anchored.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Enfatizan riesgos externos y necesidad de política restrictiva, sin comprometerse a una fecha o condición de baja.",
+      "persistence": {
+        "max_sim_prior": 0.276,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 8,
+      "year": 2017,
+      "thesis": "Continued clear communication by the Bank of Mexico would further enhance the effectiveness of monetary policy.",
+      "body": "As expected in an inflation targeting regime, the Bank has kept its communication strategy centered on the need to keep inflation expectations anchored amidst heightened uncertainty and rising inflationary pressures. Its communication as elaborated in the minutes of policy meetings, however, suggests lengthy discussions with repeated focus on exchange rate movements and U.S. policies (Box 5). The Bank has for instance frequently referred to the relative monetary stance compared to the U.S. as one element determining monetary policy decisions, along with the NAFTA-related uncertainty, potential pass-through from exchange rate changes, and the output gap. This suggests that further Fed tightening could be an obstacle to monetary easing in Mexico. Staff thus encouraged Banxico to continue enhancing its communication of future monetary policy decisions, while linking them to U.S. monetary policy and the exchange rate only insofar as they could affect the central bank's ability to achieve the inflation target.",
+      "sub_bullets": [],
+      "category": "Comunicación",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Coinciden en mejorar la comunicación, pero en dirección distinta: piden más detalle, no necesariamente más concisión como sugiere el staff.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 9,
+      "year": 2017,
+      "thesis": "There was agreement that exchange rate flexibility should remain the key shock absorber.",
+      "body": "A flexible adjustment of the exchange rate is indispensable to restore equilibrium in response to shocks. FX interventions in the spot market or through non-deliverable forwards (NDFs) settled in local currency are better suited to respond to disorderly market conditions associated with excessive volatility. 5 Staff and the authorities agreed that a mix of exchange rate adjustment and intervention, along with the buffer provided by the FCL, could be used to address the materialization of risks, taking into account the nature of the shock.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que el tipo de cambio ha servido bien como amortiguador.",
+      "persistence": {
+        "max_sim_prior": 0.297,
+        "most_similar_prior_id": 5,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 10,
+      "year": 2018,
+      "thesis": "The current monetary policy stance is adequate but there is scope to gradually ease policy.",
+      "body": "Monetary conditions are projected to progressively tighten as inflation declines (with an ex-ante real policy rate of over 4.6 percent by end-2018). A negative output gap will help keep inflation on track to converge toward the 3-percent target in the second half of 2019. In this connection, staff recommended a gradual reduction in the policy rate once inflation is again firmly on a downward path, expectations remain well anchored, and uncertainty recedes, which could well be the case as soon as in early 2019.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Enfatizan vigilancia y riesgos al alza por sorpresas inflacionarias, sin comprometerse a bajar la tasa.",
+      "persistence": {
+        "max_sim_prior": 0.508,
+        "most_similar_prior_id": 7,
+        "status": "recurrente"
+      }
+    },
+    {
+      "id": 11,
+      "year": 2018,
+      "thesis": "There was agreement that exchange rate flexibility should remain the key shock absorber for the Mexican economy.",
+      "body": "Over the past year, and in the face of significant market pressures, Banxico allowed the exchange rate to adjust flexibly and refrained from any intervention since the last of the pre-announced auctions of non-deliverable forward (NDF) contracts in December 2017. The outstanding contracts (notional amount of \\$5.5 billion) have since been rolled over.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que el tipo de cambio ha servido bien como amortiguador externo.",
+      "persistence": {
+        "max_sim_prior": 0.192,
+        "most_similar_prior_id": 9,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 12,
+      "year": 2019,
+      "thesis": "Staff noted that there is scope to continue easing monetary policy.",
+      "body": "With policy still very tight despite a large negative output gap, staff advocated continuing to lower the policy rate so long as inflation remains close to the target and inflation expectations are anchored.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Coinciden en que hay espacio para bajar la tasa, pero piden cautela dado el entorno de riesgo elevado.",
+      "persistence": {
+        "max_sim_prior": 0.341,
+        "most_similar_prior_id": 7,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 13,
+      "year": 2019,
+      "thesis": "Staff commended Banxico for recent improvements in its communication.",
+      "body": "It encouraged the bank to keep communication concise, while limiting the focus on exchange rate movements and U.S. monetary policy decisions only to the extent that these have an important bearing on the inflation trajectory. Staff also noted that strong forward guidance can strengthen the efficiency of monetary policy transmission.",
+      "sub_bullets": [],
+      "category": "Comunicación",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Valoran las mejoras de comunicación, pero señalan que el entorno de riesgo limita su capacidad de dar forward guidance.",
+      "persistence": {
+        "max_sim_prior": 0.341,
+        "most_similar_prior_id": 8,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 14,
+      "year": 2019,
+      "thesis": "There was agreement that exchange rate flexibility should remain the key shock absorber.",
+      "body": "Staff and the authorities agreed that exchange rate flexibility is indispensable in restoring equilibrium in response to permanent shocks, and intervention should be limited to incidences of disorderly market conditions. In this context, staff highlighted the important role the flexible exchange rate has played by inducing a gradual strengthening of the non-oil balance to offset Mexico's shift from net oil exporter to net oil importer.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Coinciden en que la flexibilidad cambiaria ha servido bien a México.",
+      "persistence": {
+        "max_sim_prior": 0.308,
+        "most_similar_prior_id": 9,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 15,
+      "year": 2020,
+      "thesis": "Faced with difficult tradeoffs in a complex environment, the central bank has cut the policy rate significantly and supported financial market functioning.",
+      "body": "It has sought to balance support for the economy with anchoring inflation and safeguarding external financial stability. The freely floating peso has facilitated absorption of shocks, with only marginal use of non-deliverable forwards, against the backdrop of a broadly well-hedged corporate sector. Exchange rate flexibility should be maintained to continue facilitating absorption to shocks, with foreign exchange intervention limited to instances of disorderly market conditions.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Describen la misma acción tomada (recorte significativo de tasa) sin contradecir el diagnóstico del staff.",
+      "persistence": {
+        "max_sim_prior": 0.083,
+        "most_similar_prior_id": 4,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 16,
+      "year": 2020,
+      "thesis": "Staff considers the monetary stance to be modestly accommodative, with further room to ease.",
+      "body": "Pre-pandemic, the central bank estimated the real neutral rate to be in the range of 1.8 and 3.4 percent. The ex-ante real policy rate, based on 1-year ahead inflation expectations that remain well anchored, is below the lower bound of this range. Nonetheless, the real neutral rate is likely to have declined in the pandemic. For instance, the October 2020 GFSR estimated that U.S. monetary easing---prior to the recent shift in U.S. monetary policy announced at the Jackson Hole conference---has lowered long-term bond yields in EMs by 30-60 basis points. The policy rate moreover remains above the trough in rates reached in the previous easing cycle, despite growth being the weakest in decades and with a very sizable output gap that is projected to persist. The policy rate is also high in both real and nominal terms relative to most large EMs, whose rates are at or below their historic lows and several of whom have pursued additional monetary stimulus through asset purchase programs.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Señalan que ya han flexibilizado significativamente y que les queda menos margen, aceptando la idea de espacio pero con cautela.",
+      "persistence": {
+        "max_sim_prior": 0.349,
+        "most_similar_prior_id": 7,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 17,
+      "year": 2020,
+      "thesis": "With 1-year ahead inflation expectations well anchored, consideration could be given to further easing while also safeguarding financial stability",
+      "body": ". A lower real cost of borrowing would help alleviate debt servicing pressures among weaker borrowers, possibly boost investment, and increase the marginal attractiveness of the credit facilities of the central bank. Eighty percent of non-financial corporate credit is floating rate: about 85 percent for large corporates and over 65 percent for SMEs. But in considering further reductions in the policy rate, the central bank will need to successfully navigate challenging tradeoffs.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Mismo matiz: reconocen espacio para bajar la tasa pero enfatizan riesgos a la estabilidad financiera.",
+      "persistence": {
+        "max_sim_prior": 0.137,
+        "most_similar_prior_id": 7,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 18,
+      "year": 2020,
+      "thesis": "One difficult balancing act is that inflation has edged up recently on account of price pressures in merchandise goods.",
+      "body": "However, these pressures largely reflect passthrough from peso depreciation earlier this year, temporary Covid-19 related supply shocks, and idiosyncratic weather shocks weighing on raw and processed food inflation. They are thus expected to be transitory. The weakness in demand and low inflation in services are expected to offset these transitory effects over time. This is further supported by well-anchored 1-year ahead and medium-term inflation expectations.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Notan que la inflación subió con fuerza (100pb sobre la meta) en contraste con el resto de G20, un tono más cauteloso que la lectura de 'transitorio' del staff.",
+      "persistence": {
+        "max_sim_prior": 0.239,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 19,
+      "year": 2020,
+      "thesis": "Another difficult balancing act concerns capital outflow and peso depreciation risks related to Mexico's deep and liquid local currency markets, against the backdrop of the sudden stop in March-April and still unsettled global conditions.",
+      "body": "Acknowledging these concerns, it is worth noting that, since the Covid-19 shock, outflows in local currency bond markets have been driven largely by external factors, particularly global risk aversion, while issuance and inflows in hard currency debt are at or near historical records, owing to the perceived creditworthiness of the sovereign and large corporates. Concerns could also be alleviated if staff's recommendations above for fiscal policy and Pemex are implemented, lowering risk premia. Staff's analysis of policy rate setting, which includes U.S. policies and credit spreads, also suggests room to further lower rates.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Abordan las preocupaciones de flujos de capital y depreciación, matizando la importancia de la curva larga de rendimientos.",
+      "persistence": {
+        "max_sim_prior": 0.127,
+        "most_similar_prior_id": 2,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 20,
+      "year": 2020,
+      "thesis": "An independent review of the monetary policy framework could be considered.",
+      "body": "Although inflation levels and volatility have declined notably following the introduction of inflation targeting, actual inflation and inflation expectations have remained closer to the upper range of the target. Following nearly two decades of inflation targeting and in view of the potential changes in the strategies of major central banks, an independent review could explore inflation determinants, inflation measures, and the policy toolkit. The review could also consider the role of financial stability, capital flow dynamics, expanding financial inclusion, and sustainable employment in pursuing the main objective of low and stable inflation within its existing legal framework.",
+      "sub_bullets": [],
+      "category": "Marco de Política Monetaria",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Contextualizan que las revisiones de marco en economías avanzadas responden a un límite inferior efectivo que no aplica a México, sin comprometerse ni rechazar una revisión.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 21,
+      "year": 2020,
+      "thesis": "Consideration could be given to enhancing the attractiveness of the central bank's financing facilities.",
+      "body": "The facilities aimed to improve the functioning of financial markets and channel credit to MSMEs. The market-functioning facilities have seen limited use against the backdrop of improving liquidity conditions; they have contributed to extending the maturity of government repo operations. The MSME-credit facilities, however, have seen limited use9, despite significant stress in several sectors impacted by Covid-19 and an ongoing contraction in credit. In staff's view, development banks could provide larger MSME guarantees to support an increase in lending volumes. This will require additional support from the government and a greater tolerance for risk taking. There is scope also to reduce funding costs that are linked to the policy rate, relax collateral requirements, and encourage banks to engage with potential recipients more vigorously.",
+      "sub_bullets": [],
+      "category": "Instrumentos y Balance",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Defienden la utilidad de las facilidades existentes como respaldo, sin comprometerse explícitamente a mejorarlas o ampliarlas.",
+      "persistence": {
+        "max_sim_prior": 0.0,
+        "most_similar_prior_id": null,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 22,
+      "year": 2021,
+      "thesis": "In response to the pandemic, the central bank lowered the policy rate to 4 percent.",
+      "body": "Despite these cuts, the real ex ante rate remained positive and one of the highest among large EMs. With the corporate sector well-hedged, the depreciation in the peso helped facilitate the adjustment to the shock, with only limited foreign exchange intervention in the non-deliverable forward market during mid-2020 amid severe market stress.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Sin respuesta directa identificable",
+      "agreement_rationale": "Es una descripción de la acción ya tomada (recorte a 4%), no una recomendación activa que las autoridades respondan punto por punto.",
+      "persistence": {
+        "max_sim_prior": 0.291,
+        "most_similar_prior_id": 15,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 23,
+      "year": 2021,
+      "thesis": "With inflation well above the target, the central bank has raised the policy rate by 75 basis points since June 2021.",
+      "body": "This puts the policy rate at the lower end of the authorities' estimated range for the nominal neutral rate (although the *ex ante* real rate is below the authorities' range for the real neutral rate). The inflation surge is expected to be mostly temporary but the central bank has considered it prudent to raise the policy rate to signal its strong commitment to its inflation objective and ensure a firm anchoring of inflation expectations. Following the hike in June 2021, the central bank further enhanced transparency by presenting an updated inflation forecast with each decision and publicizing the vote of each board member.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "La subida de 75pb y el refuerzo de transparencia descritos son consistentes con la lectura del staff.",
+      "persistence": {
+        "max_sim_prior": 0.279,
+        "most_similar_prior_id": 16,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 24,
+      "year": 2021,
+      "thesis": "Elevated inflation, amid sizable economic slack, presents the central bank with a difficult balancing act.",
+      "body": "The unprecedented nature of the pandemic has complicated policy by adding significant uncertainty on the outlook for inflation and nature of supply-demand imbalances. On one hand, inflation has significantly exceeded its target for several months, raising concerns that higher inflation could become entrenched, with potential second-round effects on wage and price formation. In this context, tightening monetary policy could provide insurance against more lasting increases in prices and help anchor inflation expectations more firmly. While this modest compared to the economic costs that would need to be incurred to re-anchor inflation expectations if they started to move upwards. On the other hand, the Mexican central bank enjoys strong credibility, and there is a case to look through what are generally viewed as largely transitory price level adjustments, especially since price pressures---from commodity prices, manufacturing input bottlenecks, and a surprise surge in services demand in a market still constrained by epidemiological conditions---will likely subside before higher policy rates feed through to prices. The sizable slack in the economy should create a disinflationary force and inflation expectations remain well anchored around their historical averages. Rapid hiking could also constrain room for policy maneuver at the time of U.S. liftoff. Looking through the current price pressures would help promote the recovery and reduce scarring.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Ambos reconocen los riesgos de shocks transitorios y la necesidad de vigilancia, sin definir aún una trayectoria.",
+      "persistence": {
+        "max_sim_prior": 0.272,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 25,
+      "year": 2021,
+      "thesis": "A gradual path of policy normalization would offer a reasonable balance between promoting the recovery while ensuring a firm anchoring of medium term inflation expectations.",
+      "body": "The expectation that price pressures are largely transitory, the persistence of considerable economic slack, and the fact that Mexico did not cut its policy rate abruptly in 2020 could give the central bank more time to assess how price pressures are evolving. Such a patient approach is supported by the fact that Mexican policy rates, output, and inflation co-move very closely with the U.S., and price pressures in the U.S. are generally viewed to be transitory. That said, policy will need to remain highly attuned to the evolution of inflation expectations. A somewhat faster pace of policy tightening could be called for if medium-term inflation expectations rise. Exchange rate flexibility should be maintained to continue facilitating adjustment to shocks and foreign exchange intervention should be limited to instances of disorderly market conditions.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que ya iniciaron el retiro gradual de acomodación, alineado con la recomendación.",
+      "persistence": {
+        "max_sim_prior": 0.293,
+        "most_similar_prior_id": 15,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 26,
+      "year": 2021,
+      "thesis": "Greater clarity on the central bank's assessment of the outlook would help to better navigate the current challenges.",
+      "body": "Building on recent innovations to enhance transparency, further steps to provide more details about the central bank's macroeconomic forecasts---including eventually publishing an internally consistent macroeconomic forecast that includes the policy rate path that underpins the forecasts---would help guide market participants and facilitate orderly adjustments across the yield curve. In that context, it will be important to continue emphasizing that policy is not on a pre-set path but will respond to developments, including the evolution of inflation expectations and potential emergence of second-round effects. Over time, this would allow analysts to also infer how the central bank's expected policy rate path evolves with changes in the macroeconomic outlook. The experience of other countries shows that publishing scenarios and fan charts and reiterating that these are projections and not commitments have improved communication and credibility.",
+      "sub_bullets": [],
+      "category": "Comunicación",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Destacan mejoras recientes, pero matizan que publicar la trayectoria completa de tasa requiere una evaluación cuidadosa por riesgos de credibilidad.",
+      "persistence": {
+        "max_sim_prior": 0.147,
+        "most_similar_prior_id": 8,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 27,
+      "year": 2021,
+      "thesis": "A strategic review of the monetary policy framework could suggest areas for enhancing effectiveness.",
+      "body": "The existing framework has served Mexico well---delivering generally low and stable inflation for two decades, with a free-floating peso. However, headline and core inflation (as well as inflation expectations) have remained consistently above the central bank's target. The review could assess the performance of the framework and possible changes to the monetary policy toolkit or to the central bank's communications strategy. Also, with Mexico's business cycle, inflation, and policy rate co-moving closely with that of the U.S., the review could consider any implications of the Federal Reserve's shift to flexible average inflation targeting for Mexico's framework. Finally, the review could consider the roles of financial stability, inclusion, employment, and the greening of the financial system within the bank's existing legal framework.",
+      "sub_bullets": [],
+      "category": "Marco de Política Monetaria",
+      "agreement_label": "Reconoce el punto pero no se compromete",
+      "agreement_rationale": "Indican que las revisiones de marco deben hacerse en frecuencia predeterminada, posiblemente tras superar el choque de COVID, sin comprometerse a un calendario.",
+      "persistence": {
+        "max_sim_prior": 0.458,
+        "most_similar_prior_id": 20,
+        "status": "recurrente"
+      }
+    },
+    {
+      "id": 28,
+      "year": 2022,
+      "thesis": "Banxico has taken a proactive approach to address increasingly broad-based inflation.",
+      "body": "Since June 2021, successive and gradually larger increases in the reference rate brought the ex ante real policy rate (i.e., the nominal rate adjusted for one-year ahead inflation expectations) to a moderately restrictive level by September 2022 at about 4 percent.6 This has been an appropriately calibrated response to the upward surprises to inflation and sequential delays in returning to the inflation target. In recent monetary policy statements, Banxico has also rightly indicated its intention to further increase the policy rate. It is expected that a policy rate of at least 10 percent would be required for inflation to reverse close to the central bank's 3-percent target within the usual two years or so.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Coinciden con la narrativa de una respuesta temprana y decisiva frente a la inflación.",
+      "persistence": {
+        "max_sim_prior": 0.318,
+        "most_similar_prior_id": 23,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 29,
+      "year": 2022,
+      "thesis": "Inflation risks are expected to remain heightened for some time.",
+      "body": "The proactive Policy tightening already put in place, alongside further increases in the policy rate, and weakening global demand are expected to lead to a slowdown in activity and a decline in inflation. However, there is significant uncertainty about the timing, speed, and durability of the downward path for inflation. This uncertainty arises from the possibility of: (i) further shocks, including spillovers to local raw and processed food prices from global commodity prices and domestic food prices, especially resulting from severe drought conditions in some Mexican states; (ii) if inflation imported from advanced economies is more persistent than expected; (iii) longer-lasting price pressures from supply chain constraints; (iv) further expected increases in the minimum wage feeding into costs and prices; (v) inertia resulting from more frequent domestic price adjustments; and (vi) further upticks in nearterm inflation expectations that then feed in to wages and prices. The inflation surge in Mexico reflects both shocks in standard determinants (such as relative food and import prices, falling slack, and rising inflation expectations), but also a series of positive residual factors, and preliminary signs of greater inertia.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Concuerdan en que persisten riesgos al alza para la inflación.",
+      "persistence": {
+        "max_sim_prior": 0.292,
+        "most_similar_prior_id": 1,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 30,
+      "year": 2022,
+      "thesis": "Risk considerations call for further increases in the policy rate and maintaining it at that higher level.",
+      "body": "The risks to inflation are not only high but also asymmetric in the usual one-to two- year monetary policy horizon: upside surprises to inflation seem more likely than downside shocks. One contributing factor is backward-looking elements in the inflation process in Mexico according to Philips curve estimates for Mexico (Annex IX), which suggests additional risks from recent inflation shocks. Given these asymmetric risks and the substantial costs of de-anchoring wage and price formation, a risk management approach would argue for policy rates to rise further and stay firmly restrictive for some time, so as to keep wage and price formation anchored. Such an approach would entail a real ex ante policy rate that would peak at over 5 percent in 2023, broadly consistent with market expectations for nominal rates and staff's inflation forecast.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman una postura restrictiva sostenida, acorde a la recomendación de mantener tasas altas.",
+      "persistence": {
+        "max_sim_prior": 0.298,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 31,
+      "year": 2022,
+      "thesis": "Clear monetary policy communication will increase policy effectiveness during this period of significant inflation uncertainty.",
+      "body": "Banxico has appropriately taken steps to help the public better understand its policy decisions in this context. Steps have included the publication of updated inflation forecasts with every rate decision since August 2021 and, more recently, guidance on the direction of the next policy rate change in the monetary policy statement. These efforts have helped the public better understand the Governing Board's policy decision. To further strengthen this understanding, Banxico could begin publishing more information on the policy rate path that underpins its macro forecast, including the expected rate and length of its stay at the peak of the tightening cycle, and possible triggers for changes in policies. If clearly presented as expectations and not a policy commitment, changes in the expected policy rate path would provide valuable information on how the central bank expects to adjust policy as economic conditions change. A broader review of the experience with Banxico's inflation targeting framework over the past two decades could provide useful suggestions for further improvements to the policy framework and the communications toolkit.",
+      "sub_bullets": [],
+      "category": "Comunicación",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Destacan el fortalecimiento de su comunicación y el compromiso de seguir evaluando nuevas herramientas.",
+      "persistence": {
+        "max_sim_prior": 0.288,
+        "most_similar_prior_id": 8,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 32,
+      "year": 2023,
+      "thesis": "A proactive approach to monetary policy has helped contain inflationary pressures.",
+      "body": "Banxico was one of the first major central banks to begin a tightening cycle, raising its policy rate from 4 percent in June 2021 to 11.25 percent in March 2023. The real rate is now firmly in contractionary territory. Inflation expectations have remained well-anchored, underscoring the credibility of the inflation targeting regime.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Concuerdan y defienden la postura restrictiva como parte de su mandato legal.",
+      "persistence": {
+        "max_sim_prior": 0.309,
+        "most_similar_prior_id": 28,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 33,
+      "year": 2023,
+      "thesis": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "body": "Unemployment remains at low levels, and this has typically been associated---with a lag---with higher services inflation. Inflation in the services sector remains relatively high, potentially reflecting a feed through of wage pressures and past increases in the minimum wage. The procyclical budget for 2024 represents an additional nearterm risk to the inflationary outlook. A modelbased analysis indicates that the balance of risks supports a cautious pace of rate reduction. Staff forecasts assume that rate reductions will begin in mid-2024, once inflation is on a clearer downward path toward the target.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Sostienen mantener la tasa en su nivel actual por un período extendido, tal como sugiere el staff.",
+      "persistence": {
+        "max_sim_prior": 0.24,
+        "most_similar_prior_id": 30,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 34,
+      "year": 2023,
+      "thesis": "After a period of significant changes, an internal strategic review of Banxico's operations and communications could be valuable.",
+      "body": "Banxico has implemented welcome reforms to progressively provide more information to help markets understand its policy decisions. In 2021, it provided the inflation forecast underpinning its decisions, and in 2022 it began providing qualitative forward guidance (e.g., starting in May 2023 the monetary policy statement indicated that rates would stay on hold \"for an extended period\"). Transparency considerations would argue for providing greater information on the assumptions---including the policy path---that underpin the authorities' projections. It will, though, be important to underscore that this information is a modal forecast that is conditional on a range of assumptions being realized. As such, it does not represent a policy commitment. Examining potential additional changes to monetary policy practices could be done in the context of an internal strategic review of Banxico's operations and communication, with the goal of enhancing policy effectiveness consistent with Banxico's legal mandate.",
+      "sub_bullets": [],
+      "category": "Marco de Política Monetaria",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que realizan evaluaciones internas regulares y que continuarán con ese ejercicio de revisión.",
+      "persistence": {
+        "max_sim_prior": 0.144,
+        "most_similar_prior_id": 27,
+        "status": "idea nueva"
+      }
+    },
+    {
+      "id": 35,
+      "year": 2023,
+      "thesis": "Exchange rate flexibility should continue to facilitate the adjustment to external and domestic shocks.",
+      "body": "Staff does not identify material frictions under the integrated policy framework that would warrant regular foreign exchange (FX) interventions (Annex X). The FX market remains deep and liquid. Its depth is evident in the tight bidask spread; the peso's spread is below the 25^th^ percentile of EMs and closer to the advanced economies' average. FX mismatches on domestic balance sheets are generally small and well-covered by natural and financial hedges. FX interventions have been limited to a few episodes of extreme volatility in recent years. Intervention should continue to be used only in the event that large shocks cause such frictions to manifest, including those arising from disruptions in liquidity conditions or malfunctioning of the FX market1. Changes in the policy rate, in the context of a market-determined exchange rate, should remain the principal mechanism to anchor inflation expectations and guide inflation back to the central bank's target.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que la flexibilidad cambiaria sigue siendo el mecanismo principal de ajuste.",
+      "persistence": {
+        "max_sim_prior": 0.191,
+        "most_similar_prior_id": 9,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 36,
+      "year": 2024,
+      "thesis": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation expectations and reversed the 2021-2 upswing in inflation.",
+      "body": "The real ex ante monetary policy rate is now close to 7 percent, among the highest in the region and substantially above most neutral rate estimates, which should slow activity and further reduce inflation in the coming months.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Coinciden en que la inflación núcleo va a la baja, aunque persisten riesgos.",
+      "persistence": {
+        "max_sim_prior": 0.319,
+        "most_similar_prior_id": 7,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 37,
+      "year": 2024,
+      "thesis": "The pace of easing should be dependent on inflation being on a decisive path back to the central bank's target.",
+      "body": "Staff forecasts indicate that reducing the policy rate to 10 percent by end-2024 would be consistent with inflation converging to 3 percent by end-2025 as the output gap closes, labor market cools, and wage growth slows. In the event inflation proves to be more stubborn (e.g., from sustained price pressures in services or noncore items, continuing rapid increases in nominal wages, stronger-than-expected demand, and/or a weaker peso) then a slower path of interest rate reductions would be warranted. For example, in the event of higher services inflation and a positive growth surprise in the U.S., model-based results would argue for a more moderate pace of policy accommodation. Fiscal adjustment in the period ahead would also support the disinflation process through a moderation in demand.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Reiteran que las decisiones futuras serán consistentes con alcanzar la meta de inflación en 2025.",
+      "persistence": {
+        "max_sim_prior": 0.275,
+        "most_similar_prior_id": 33,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 38,
+      "year": 2024,
+      "thesis": "There is scope to boost the effectiveness of monetary policy by further enhancing Banxico's communication toolkit.",
+      "body": "Long-term inflation expectations (5--8-year horizon) remained anchored throughout the post-pandemic inflationary episode as a result of the central bank's decisive policy response to higher inflation. However, nearer-term inflation expectations remain close to the higher end of Banxico's variability range. Staff analysis (Annex X) suggests that shortterm inflation expectations are an important determinant of inflation dynamics. As such, clear monetary policy communication will be critical to continue to foster such forward-looking pricesetting behavior and bring inflation and inflation expectations back to target. Options to enhance communication could include a) publishing transcripts of the monetary policy meetings with a oneyear lag (instead of three) to increase their relevance, b) providing greater information on the assumptions---including the policy path---that underpin the authorities' projections while making clear that these are forecasts and not policy commitments (Casiraghi and Perez 2022), and c) further tailoring central bank communication to a broader audience. A clear and credible fiscal consolidation would also help anchor inflation expectations.",
+      "sub_bullets": [],
+      "category": "Comunicación",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Coinciden en la importancia de mejorar comunicación, pero matizan que el momento de los cambios debe calibrarse para evitar consecuencias no deseadas.",
+      "persistence": {
+        "max_sim_prior": 0.304,
+        "most_similar_prior_id": 8,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 39,
+      "year": 2024,
+      "thesis": "Mexico continues to maintain a fully flexible exchange rate.",
+      "body": "Mexico has a deep and liquid FX market, limited FX mismatches on balance sheets with natural and financial hedges, as well as sound macroprudential policies, and well-anchored inflation expectations. As such, guided by the Integrated Policy Framework (IPF) (see Annex VII of the 2023 Article IV Consultation), FX interventions should be used only when large shocks cause disruptions in liquidity conditions or a malfunctioning of the FX market. This has been the case over the past few years when FX interventions were limited to a few episodes of extreme volatility. Notably, FX intervention was not deployed in the face of the orderly depreciation of the peso that followed the election in June.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Confirman que México mantiene un régimen de tipo de cambio flexible.",
+      "persistence": {
+        "max_sim_prior": 0.463,
+        "most_similar_prior_id": 35,
+        "status": "recurrente"
+      }
+    },
+    {
+      "id": 40,
+      "year": 2025,
+      "thesis": "Further monetary easing should be conditioned on clearer evidence that inflation is heading back to the central bank's target.",
+      "body": "After 375bps in rate reductions, monetary policy remains moderately contractionary. This is appropriate given the still-elevated core inflation and that inflation expectations remain above target. The ongoing slowdown in aggregate demand and recent strengthening of the peso should support a lower inflation in the coming months. However, Banxico should consider pausing rate cuts in the near term until inflation demonstrates a sustained downward trajectory. This would also help anchor inflation expectations closer to the 3 percent target. Once it is clearer that the upside risks to inflation have dissipated, rate reductions could resume. Staff's baseline projection envisions an additional 150 basis points of rate cuts by the second half of 2026, which would ensure that policy is broadly neutral at the point when inflation reaches the 3 percent target.",
+      "sub_bullets": [],
+      "category": "Tasa de Política",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Reiteran compromiso con decisiones consistentes con la meta; ven la inflación en trayectoria descendente aunque con riesgos al alza.",
+      "persistence": {
+        "max_sim_prior": 0.302,
+        "most_similar_prior_id": 4,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 41,
+      "year": 2025,
+      "thesis": "There is scope to enhance Banxico's communication tools, which would improve monetary policy transmission and more firmly anchor inflation expectations at the target.",
+      "body": "Options include:",
+      "sub_bullets": [
+        "Providing economic agents with a clearer understanding of Banxico's policy reaction function by publishing both baseline and alternative scenarios that include information on key macroeconomic variables and the associated path for the policy rate. Framing the discussion of ongoing uncertainties through scenarios would reinforce the idea that the published rate path is not a policy commitment but, rather, is an assessment of appropriate policies given a set of macroeconomic circumstances.",
+        "Offering more information on the assumptions that underpin Banxico's baseline projections, including by specifying the expected timeframe when the policy rate will return to neutral, explicitly stating the central bank's assessment of the terminal policy rate, and clarifying how inflation expectations are incorporated into policy decisions.",
+        "Tailoring messages to different audiences (e.g., market analysts, the general public) through engagement and education to help guide the broader formation of expectations. Advancing plans to expand household surveys would provide insights into the broader population's understanding of monetary policy and inflation."
+      ],
+      "category": "Comunicación",
+      "agreement_label": "Acepta parcialmente",
+      "agreement_rationale": "Valoran la importancia de desarrollar su estrategia de comunicación, pero advierten explícitamente que publicar escenarios alternativos o guía explícita de tasa podría dañar la flexibilidad y credibilidad de la política monetaria.",
+      "persistence": {
+        "max_sim_prior": 0.315,
+        "most_similar_prior_id": 38,
+        "status": "variacion"
+      }
+    },
+    {
+      "id": 42,
+      "year": 2025,
+      "thesis": "The exchange rate should continue to be a shock absorber.",
+      "body": "Mexico has a deep and liquid FX market, limited balance sheet currency mismatches (with natural and financial hedges), and sound macroprudential policies. Also, the exchange rate passthrough to inflation is empirically relatively low. Guided by the Integrated Policy Framework, 5 FX interventions should, therefore, continue to be used only sparingly, in cases where there are disruptions in market liquidity or clear problems in the functioning of the FX market.",
+      "sub_bullets": [],
+      "category": "Tipo de Cambio",
+      "agreement_label": "Acepta / implementa",
+      "agreement_rationale": "Reiteran que el tipo de cambio flexible sigue funcionando como amortiguador clave.",
+      "persistence": {
+        "max_sim_prior": 0.513,
+        "most_similar_prior_id": 39,
+        "status": "recurrente"
+      }
+    }
+  ],
+  "storylines": {
+    "Tipo de Cambio": {
+      "resumen": "El tema de mayor consenso de la década. En 10 de 10 años, el FMI recomienda mantener el tipo de cambio flexible como amortiguador principal, y Banxico coincide prácticamente sin matices en 9 de esas 10 ocasiones.",
+      "arco": [
+        {
+          "year": 2015,
+          "beat": "Arranque: el FMI pide replegar las intervenciones diarias de FX y enfocar las reservas solo a episodios de desorden. Banxico acepta, pero condiciona el repliegue a que baje la volatilidad."
+        },
+        {
+          "year": 2016,
+          "beat": "Primera reafirmación plena: el tipo de cambio flexible debe seguir como amortiguador ante el choque de proteccionismo comercial. Acuerdo total."
+        },
+        {
+          "year": 2017,
+          "beat": "Se repite casi textual, ahora con mención específica a los forwards no entregables (NDFs) como instrumento adicional. Banxico coincide y defiende el uso limitado de intervención."
+        },
+        {
+          "year": 2018,
+          "beat": "Tercer año consecutivo con el mismo mensaje. La flexibilidad cambiaria ya es más una constatación que una recomendación activa."
+        },
+        {
+          "year": 2019,
+          "beat": "Se mantiene la fórmula. El FMI destaca el rol del tipo de cambio absorbiendo el giro de México de exportador a importador neto de petróleo."
+        },
+        {
+          "year": 2020,
+          "beat": "Único año con matiz real: el FMI atiende explícitamente los riesgos de salida de capital y depreciación del peso durante el choque COVID, más allá de la fórmula estándar. Banxico coincide parcialmente, matizando la importancia de la curva larga de rendimientos."
+        },
+        {
+          "year": 2023,
+          "beat": "Vuelve la fórmula estándar, ahora enmarcada explícitamente en el Integrated Policy Framework (IPF) del propio FMI."
+        },
+        {
+          "year": 2024,
+          "beat": "Prácticamente idéntica a 2023 (similaridad textual de 0.46): 'México mantiene un tipo de cambio totalmente flexible'."
+        },
+        {
+          "year": 2025,
+          "beat": "Se repite una vez más, ahora con la frase más corta de toda la serie: 'el tipo de cambio debe seguir siendo un amortiguador' (similaridad de 0.51 con 2024, la más alta de todo el dataset)."
+        }
+      ],
+      "insight": "Este es el ejemplo más claro de recomendación 'resuelta': no hay tensión, no hay evolución sustantiva, solo reafirmación anual. Útil como caso de control en el dashboard — contraste directo con Comunicación, donde sí hay fricción real."
+    },
+    "Tasa de Política": {
+      "resumen": "El bloque más grande (22 de 42 recomendaciones) y el que más fielmente sigue el ciclo macroeconómico real. Es también donde se concentra la única fricción sostenida entre el FMI y Banxico: 2020.",
+      "arco": [
+        {
+          "year": 2015,
+          "beat": "Tono dovish: inflación subyacente controlada, la acomodación monetaria sigue siendo apropiada."
+        },
+        {
+          "year": 2016,
+          "beat": "El FMI valida la pausa en el ciclo de alzas ya iniciado por Banxico. Primeras señales de que las decisiones deben ser 'data driven'."
+        },
+        {
+          "year": 2017,
+          "beat": "Aparece la primera fricción real: el FMI empieza a sugerir condiciones para bajar la tasa ('conditional on inflation expectations remaining anchored'), pero Banxico se enfoca en los riesgos externos sin comprometerse — la marcamos como 'reconoce pero no se compromete'."
+        },
+        {
+          "year": 2018,
+          "beat": "Se repite casi el mismo patrón que 2017 (similaridad de 0.51, la segunda más alta del dataset): el FMI insiste en el espacio para bajar tasa 'gradualmente', Banxico sigue priorizando vigilancia."
+        },
+        {
+          "year": 2019,
+          "beat": "El FMI insiste por tercer año consecutivo en el espacio para bajar tasas. Banxico por fin empieza a moverse, aunque con cautela — acuerdo parcial."
+        },
+        {
+          "year": 2020,
+          "beat": "Punto de mayor tensión de toda la serie: ante el choque COVID, el FMI pide explícitamente más recortes dado el output gap más grande en décadas. Banxico —tres recomendaciones distintas ese año tocan este punto— responde que ya bajó mucho y le queda poco margen, priorizando la estabilidad financiera sobre el estímulo adicional. Es el único tramo del dataset con varias recomendaciones consecutivas en 'acepta parcialmente' o peor."
+        },
+        {
+          "year": 2021,
+          "beat": "El ciclo gira: con la inflación por encima de la meta, el FMI reconoce el dilema (transitorio vs. persistente) y respalda la normalización gradual que Banxico ya inició. Vuelve el acuerdo pleno."
+        },
+        {
+          "year": 2022,
+          "beat": "Convergencia total: ambos coinciden en que la política restrictiva debe continuar y mantenerse. El FMI incluso elogia el enfoque 'proactivo' de Banxico."
+        },
+        {
+          "year": 2023,
+          "beat": "Se repite el mismo mensaje casi textual (similaridad 0.31 con 2022): cautela ante riesgos al alza, mantener la tasa restrictiva. Acuerdo pleno."
+        },
+        {
+          "year": 2024,
+          "beat": "El FMI reconoce que el ajuste oportuno de Banxico ancló las expectativas. Ambos coinciden en un ritmo de relajamiento condicionado a la convergencia de la inflación."
+        },
+        {
+          "year": 2025,
+          "beat": "Última entrada de la serie: el FMI pide condicionar más recortes a evidencia clara de convergencia. Banxico coincide plenamente."
+        }
+      ],
+      "insight": "El arco cuenta una historia de divergencia-convergencia: friccion moderada 2017-2018 (Banxico más cauto que el FMI), fricción aguda en 2020 (roles invertidos: FMI más dovish que Banxico), y convergencia casi total de 2021 en adelante. Ideal para un gráfico de línea de 'distancia de postura' FMI-Banxico a lo largo del tiempo."
+    },
+    "Comunicación": {
+      "resumen": "El tema con la fricción más persistente y menos resuelta de todo el dataset. El FMI pide lo mismo —más transparencia sobre la trayectoria de tasa— en al menos tres años distintos (2021, 2024, 2025), y Banxico responde con la misma objeción cada vez.",
+      "arco": [
+        {
+          "year": 2017,
+          "beat": "Primer round: el FMI pide comunicación más clara y menos centrada en el diferencial con EU. Banxico responde que su comunicación ya es extensa y que prefiere ELABORAR más, no simplificar — una divergencia de enfoque, no solo de grado."
+        },
+        {
+          "year": 2019,
+          "beat": "El FMI cambia de tono: elogia las mejoras recientes, pero ahora pide mantener la comunicación CONCISA. Banxico acepta el elogio pero se cubre citando el entorno de riesgo como límite a su forward guidance."
+        },
+        {
+          "year": 2021,
+          "beat": "Primera propuesta concreta y específica: publicar la trayectoria esperada de tasa (fan charts, escenarios). Banxico responde con cautela explícita: hacerlo podría minar la flexibilidad y credibilidad de la política."
+        },
+        {
+          "year": 2022,
+          "beat": "Cambio de tono: Banxico adopta guía cualitativa direccional (sin trayectoria numérica) y el FMI lo reconoce como avance genuino. Único año de acuerdo pleno en este tema."
+        },
+        {
+          "year": 2024,
+          "beat": "El FMI regresa a pedir más detalle sobre supuestos y trayectoria de tasa, ahora con propuestas más técnicas (acortar el rezago de publicación de minutas). Banxico coincide en la importancia pero matiza el momento de implementar cambios."
+        },
+        {
+          "year": 2025,
+          "beat": "Se repite casi la misma solicitud que en 2021 (similaridad de 0.32 con 2024, y la idea central es prácticamente la misma que hace 4 años): publicar escenarios y trayectoria de tasa. Banxico da la misma respuesta que en 2021 casi palabra por palabra: podría dañar la flexibilidad y credibilidad."
+        }
+      ],
+      "insight": "Esta es la storyline más fuerte para el dashboard: una recomendación específica (publicar la trayectoria de tasa) que el FMI ha repetido en al menos 3 ocasiones a lo largo de 4 años, con la misma respuesta de Banxico cada vez. Es el ejemplo más claro de 'recomendación no resuelta' del dataset completo."
+    },
+    "Marco de Política Monetaria": {
+      "resumen": "Solo 3 recomendaciones, pero cuentan una historia completa de maduración de una idea en 3 años.",
+      "arco": [
+        {
+          "year": 2020,
+          "beat": "El FMI plantea por primera vez una revisión independiente del marco de política monetaria. Banxico responde contextualizando: las revisiones en economías avanzadas responden a un límite inferior efectivo que no aplica a México — ni acepta ni rechaza de frente, pero no se compromete."
+        },
+        {
+          "year": 2021,
+          "beat": "El FMI insiste con fraseo casi idéntico (similaridad de 0.46 con 2020, la cuarta más alta del dataset): una revisión estratégica 'podría sugerir áreas de mejora'. Banxico repite el mismo tipo de respuesta: las revisiones deben hacerse en frecuencia predeterminada, mejor esperar a que pase el choque de COVID."
+        },
+        {
+          "year": 2023,
+          "beat": "Tercer intento, con lenguaje más suave ('podría ser valioso'). Esta vez Banxico responde de forma distinta: confirma que SÍ realiza evaluaciones internas regulares de sus operaciones y comunicación, y que continuará haciéndolo — la idea, en una versión más modesta (interna, no independiente/externa), termina siendo absorbida."
+        }
+      ],
+      "insight": "Ejemplo perfecto de cómo una recomendación ambiciosa (revisión independiente/externa) se resiste dos veces y termina materializándose en una versión diluida (revisión interna) al tercer intento. Buen caso para ilustrar 'maduración de idea' en el dashboard."
+    }
+  },
+  "similarity_pairs": [
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2024,
+      "id_a": 39,
+      "thesis_a": "Mexico continues to maintain a fully flexible exchange rate.",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.513
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2018,
+      "id_b": 10,
+      "thesis_b": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "similarity": 0.508
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2023,
+      "id_a": 35,
+      "thesis_a": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.463
+    },
+    {
+      "category": "Marco de Política Monetaria",
+      "year_a": 2020,
+      "id_a": 20,
+      "thesis_a": "An independent review of the monetary policy framework could be considered.",
+      "year_b": 2021,
+      "id_b": 27,
+      "thesis_b": "A strategic review of the monetary policy framework could suggest areas for enha",
+      "similarity": 0.458
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2023,
+      "id_a": 35,
+      "thesis_a": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.392
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.349
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2019,
+      "id_b": 12,
+      "thesis_b": "Staff noted that there is scope to continue easing monetary policy.",
+      "similarity": 0.341
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2017,
+      "id_a": 8,
+      "thesis_a": "Continued clear communication by the Bank of Mexico would further enhance the ef",
+      "year_b": 2019,
+      "id_b": 13,
+      "thesis_b": "Staff commended Banxico for recent improvements in its communication.",
+      "similarity": 0.341
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2016,
+      "id_b": 4,
+      "thesis_b": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "similarity": 0.32
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.319
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.318
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2024,
+      "id_a": 38,
+      "thesis_a": "There is scope to boost the effectiveness of monetary policy by further enhancin",
+      "year_b": 2025,
+      "id_b": 41,
+      "thesis_b": "There is scope to enhance Banxico's communication tools, which would improve mon",
+      "similarity": 0.315
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.311
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.309
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2019,
+      "id_b": 14,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.308
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2017,
+      "id_a": 8,
+      "thesis_a": "Continued clear communication by the Bank of Mexico would further enhance the ef",
+      "year_b": 2024,
+      "id_b": 38,
+      "thesis_b": "There is scope to boost the effectiveness of monetary policy by further enhancin",
+      "similarity": 0.304
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.302
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.298
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2017,
+      "id_b": 9,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.297
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.294
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.293
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.292
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.291
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.288
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2017,
+      "id_a": 8,
+      "thesis_a": "Continued clear communication by the Bank of Mexico would further enhance the ef",
+      "year_b": 2022,
+      "id_b": 31,
+      "thesis_b": "Clear monetary policy communication will increase policy effectiveness during th",
+      "similarity": 0.288
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2019,
+      "id_b": 12,
+      "thesis_b": "Staff noted that there is scope to continue easing monetary policy.",
+      "similarity": 0.285
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.281
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.279
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2017,
+      "id_b": 7,
+      "thesis_b": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "similarity": 0.276
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 33,
+      "thesis_a": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.275
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.274
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2022,
+      "id_a": 31,
+      "thesis_a": "Clear monetary policy communication will increase policy effectiveness during th",
+      "year_b": 2024,
+      "id_b": 38,
+      "thesis_b": "There is scope to boost the effectiveness of monetary policy by further enhancin",
+      "similarity": 0.273
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.272
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2017,
+      "id_b": 7,
+      "thesis_b": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "similarity": 0.271
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.267
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.267
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2021,
+      "id_a": 26,
+      "thesis_a": "Greater clarity on the central bank's assessment of the outlook would help to be",
+      "year_b": 2022,
+      "id_b": 31,
+      "thesis_b": "Clear monetary policy communication will increase policy effectiveness during th",
+      "similarity": 0.266
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.265
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.259
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.256
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.253
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2024,
+      "id_a": 36,
+      "thesis_a": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.248
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 32,
+      "thesis_a": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.246
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.243
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.242
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 30,
+      "thesis_a": "Risk considerations call for further increases in the policy rate and maintainin",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.24
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 33,
+      "thesis_a": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.24
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.239
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.238
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.237
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.236
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.235
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2019,
+      "id_b": 12,
+      "thesis_b": "Staff noted that there is scope to continue easing monetary policy.",
+      "similarity": 0.233
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.233
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.233
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2017,
+      "id_b": 6,
+      "thesis_b": "The pause in the monetary policy tightening cycle was appropriate.",
+      "similarity": 0.231
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.231
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.23
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2019,
+      "id_b": 14,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.23
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.228
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.228
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.227
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.227
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2019,
+      "id_b": 12,
+      "thesis_b": "Staff noted that there is scope to continue easing monetary policy.",
+      "similarity": 0.226
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.222
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.221
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.219
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2019,
+      "id_a": 13,
+      "thesis_a": "Staff commended Banxico for recent improvements in its communication.",
+      "year_b": 2022,
+      "id_b": 31,
+      "thesis_b": "Clear monetary policy communication will increase policy effectiveness during th",
+      "similarity": 0.219
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.218
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.218
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.218
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2018,
+      "id_b": 10,
+      "thesis_b": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "similarity": 0.214
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2016,
+      "id_b": 5,
+      "thesis_b": "There was agreement that the flexible exchange rate should continue to play the ",
+      "similarity": 0.214
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.213
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.213
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.213
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.211
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.21
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.207
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2019,
+      "id_a": 13,
+      "thesis_a": "Staff commended Banxico for recent improvements in its communication.",
+      "year_b": 2024,
+      "id_b": 38,
+      "thesis_b": "There is scope to boost the effectiveness of monetary policy by further enhancin",
+      "similarity": 0.207
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.206
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.199
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.199
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2021,
+      "id_a": 26,
+      "thesis_a": "Greater clarity on the central bank's assessment of the outlook would help to be",
+      "year_b": 2024,
+      "id_b": 38,
+      "thesis_b": "There is scope to boost the effectiveness of monetary policy by further enhancin",
+      "similarity": 0.197
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.192
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2018,
+      "id_b": 11,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.192
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.191
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2024,
+      "id_a": 37,
+      "thesis_a": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.191
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.191
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.187
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.187
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2017,
+      "id_a": 8,
+      "thesis_a": "Continued clear communication by the Bank of Mexico would further enhance the ef",
+      "year_b": 2025,
+      "id_b": 41,
+      "thesis_b": "There is scope to enhance Banxico's communication tools, which would improve mon",
+      "similarity": 0.187
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.185
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.185
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.183
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.183
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 30,
+      "thesis_a": "Risk considerations call for further increases in the policy rate and maintainin",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.182
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.18
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.18
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.18
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.177
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2019,
+      "id_a": 13,
+      "thesis_a": "Staff commended Banxico for recent improvements in its communication.",
+      "year_b": 2025,
+      "id_b": 41,
+      "thesis_b": "There is scope to enhance Banxico's communication tools, which would improve mon",
+      "similarity": 0.177
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2018,
+      "id_b": 10,
+      "thesis_b": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "similarity": 0.176
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2017,
+      "id_b": 9,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.174
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 30,
+      "thesis_a": "Risk considerations call for further increases in the policy rate and maintainin",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.172
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.171
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 30,
+      "thesis_a": "Risk considerations call for further increases in the policy rate and maintainin",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.169
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2018,
+      "id_b": 11,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.167
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.166
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 32,
+      "thesis_a": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.166
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.165
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.164
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.163
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.163
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.163
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.161
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2019,
+      "id_b": 14,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.16
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.159
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2018,
+      "id_a": 11,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2019,
+      "id_b": 14,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.158
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2017,
+      "id_b": 6,
+      "thesis_b": "The pause in the monetary policy tightening cycle was appropriate.",
+      "similarity": 0.157
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.157
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.155
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.154
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 30,
+      "thesis_a": "Risk considerations call for further increases in the policy rate and maintainin",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.154
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.152
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.151
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.149
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.149
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.148
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.148
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.147
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2017,
+      "id_a": 8,
+      "thesis_a": "Continued clear communication by the Bank of Mexico would further enhance the ef",
+      "year_b": 2021,
+      "id_b": 26,
+      "thesis_b": "Greater clarity on the central bank's assessment of the outlook would help to be",
+      "similarity": 0.147
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.146
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.145
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.145
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.145
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.144
+    },
+    {
+      "category": "Marco de Política Monetaria",
+      "year_a": 2021,
+      "id_a": 27,
+      "thesis_a": "A strategic review of the monetary policy framework could suggest areas for enha",
+      "year_b": 2023,
+      "id_b": 34,
+      "thesis_b": "After a period of significant changes, an internal strategic review of Banxico's",
+      "similarity": 0.144
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2016,
+      "id_b": 5,
+      "thesis_b": "There was agreement that the flexible exchange rate should continue to play the ",
+      "similarity": 0.143
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.142
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.142
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.142
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.142
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.141
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.141
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.14
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.139
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.138
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.137
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.137
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.137
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.137
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2022,
+      "id_a": 31,
+      "thesis_a": "Clear monetary policy communication will increase policy effectiveness during th",
+      "year_b": 2025,
+      "id_b": 41,
+      "thesis_b": "There is scope to enhance Banxico's communication tools, which would improve mon",
+      "similarity": 0.137
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.136
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.136
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.136
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.135
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.135
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.134
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.134
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.133
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.133
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2019,
+      "id_a": 14,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.132
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.13
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2019,
+      "id_a": 14,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.13
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.128
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.127
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.127
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.127
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.127
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 24,
+      "thesis_a": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.126
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.125
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.125
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.124
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.123
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.123
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 28,
+      "thesis_a": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.123
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 32,
+      "thesis_a": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.122
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.121
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.121
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.121
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.121
+    },
+    {
+      "category": "Marco de Política Monetaria",
+      "year_a": 2020,
+      "id_a": 20,
+      "thesis_a": "An independent review of the monetary policy framework could be considered.",
+      "year_b": 2023,
+      "id_b": 34,
+      "thesis_b": "After a period of significant changes, an internal strategic review of Banxico's",
+      "similarity": 0.121
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.12
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2019,
+      "id_b": 12,
+      "thesis_b": "Staff noted that there is scope to continue easing monetary policy.",
+      "similarity": 0.119
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2017,
+      "id_b": 9,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.119
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.117
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.117
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.117
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.116
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.114
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2017,
+      "id_b": 7,
+      "thesis_b": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "similarity": 0.113
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.113
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.112
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.112
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.111
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.11
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2019,
+      "id_b": 14,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.11
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.106
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.105
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.104
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.103
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.103
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.103
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.102
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.101
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.101
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.099
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.099
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 25,
+      "thesis_a": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.099
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.099
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2019,
+      "id_a": 13,
+      "thesis_a": "Staff commended Banxico for recent improvements in its communication.",
+      "year_b": 2021,
+      "id_b": 26,
+      "thesis_b": "Greater clarity on the central bank's assessment of the outlook would help to be",
+      "similarity": 0.099
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.098
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2019,
+      "id_a": 14,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.098
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.097
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.096
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.096
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2018,
+      "id_b": 10,
+      "thesis_b": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "similarity": 0.094
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 23,
+      "thesis_a": "With inflation well above the target, the central bank has raised the policy rat",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.094
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2018,
+      "id_b": 11,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.093
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2017,
+      "id_a": 9,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.093
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.092
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.092
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.091
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.091
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.09
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.089
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.089
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.088
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.087
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.086
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2021,
+      "id_b": 25,
+      "thesis_b": "A gradual path of policy normalization would offer a reasonable balance between ",
+      "similarity": 0.086
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 32,
+      "thesis_a": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.085
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2018,
+      "id_a": 11,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.085
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2020,
+      "id_a": 19,
+      "thesis_a": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "year_b": 2025,
+      "id_b": 42,
+      "thesis_b": "The exchange rate should continue to be a shock absorber.",
+      "similarity": 0.085
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.084
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.084
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 2,
+      "thesis_a": "The flexible exchange rate should continue to play a key role in helping the eco",
+      "year_b": 2015,
+      "id_b": 3,
+      "thesis_b": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "similarity": 0.084
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.083
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2016,
+      "id_a": 4,
+      "thesis_a": "Monetary policy accommodation has been withdrawn steadily over the past year.",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.083
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.082
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2024,
+      "id_a": 36,
+      "thesis_a": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.08
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.079
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2025,
+      "id_b": 40,
+      "thesis_b": "Further monetary easing should be conditioned on clearer evidence that inflation",
+      "similarity": 0.079
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2023,
+      "id_a": 33,
+      "thesis_a": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.079
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2021,
+      "id_b": 23,
+      "thesis_b": "With inflation well above the target, the central bank has raised the policy rat",
+      "similarity": 0.078
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.077
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.075
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2022,
+      "id_a": 29,
+      "thesis_a": "Inflation risks are expected to remain heightened for some time.",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.075
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.074
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.074
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.071
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2022,
+      "id_b": 30,
+      "thesis_b": "Risk considerations call for further increases in the policy rate and maintainin",
+      "similarity": 0.069
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2020,
+      "id_a": 19,
+      "thesis_a": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.069
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.068
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2021,
+      "id_b": 24,
+      "thesis_b": "Elevated inflation, amid sizable economic slack, presents the central bank with ",
+      "similarity": 0.067
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2024,
+      "id_b": 37,
+      "thesis_b": "The pace of easing should be dependent on inflation being on a decisive path bac",
+      "similarity": 0.066
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.066
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2018,
+      "id_a": 11,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.066
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.065
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2018,
+      "id_a": 11,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.065
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.064
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.061
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2020,
+      "id_b": 17,
+      "thesis_b": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "similarity": 0.06
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.06
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2022,
+      "id_b": 28,
+      "thesis_b": "Banxico has taken a proactive approach to address increasingly broad-based infla",
+      "similarity": 0.06
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2024,
+      "id_b": 39,
+      "thesis_b": "Mexico continues to maintain a fully flexible exchange rate.",
+      "similarity": 0.059
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2020,
+      "id_a": 19,
+      "thesis_a": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "year_b": 2023,
+      "id_b": 35,
+      "thesis_b": "Exchange rate flexibility should continue to facilitate the adjustment to extern",
+      "similarity": 0.059
+    },
+    {
+      "category": "Comunicación",
+      "year_a": 2021,
+      "id_a": 26,
+      "thesis_a": "Greater clarity on the central bank's assessment of the outlook would help to be",
+      "year_b": 2025,
+      "id_b": 41,
+      "thesis_b": "There is scope to enhance Banxico's communication tools, which would improve mon",
+      "similarity": 0.058
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.057
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.054
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.054
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2019,
+      "id_a": 12,
+      "thesis_a": "Staff noted that there is scope to continue easing monetary policy.",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.052
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2018,
+      "id_b": 11,
+      "thesis_b": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "similarity": 0.052
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2015,
+      "id_a": 1,
+      "thesis_a": "Inflation pressures have been subdued: after a one-off adjustment in the price l",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.051
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.049
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.049
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2019,
+      "id_a": 14,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.049
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2023,
+      "id_b": 33,
+      "thesis_b": "Upside risks to inflation argue for caution in reducing the policy rate.",
+      "similarity": 0.048
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2020,
+      "id_b": 18,
+      "thesis_b": "One difficult balancing act is that inflation has edged up recently on account o",
+      "similarity": 0.045
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 7,
+      "thesis_a": "Conditional on inflation expectations remaining well-anchored, the Bank of Mexic",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.043
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2018,
+      "id_a": 10,
+      "thesis_a": "The current monetary policy stance is adequate but there is scope to gradually e",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.043
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2020,
+      "id_b": 15,
+      "thesis_b": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "similarity": 0.041
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2016,
+      "id_a": 5,
+      "thesis_a": "There was agreement that the flexible exchange rate should continue to play the ",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.04
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2023,
+      "id_b": 32,
+      "thesis_b": "A proactive approach to monetary policy has helped contain inflationary pressure",
+      "similarity": 0.036
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2024,
+      "id_b": 36,
+      "thesis_b": "Banxico's timely tightening of monetary policy has anchored mediumterm inflation",
+      "similarity": 0.036
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 16,
+      "thesis_a": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.036
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 18,
+      "thesis_a": "One difficult balancing act is that inflation has edged up recently on account o",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.036
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2021,
+      "id_a": 22,
+      "thesis_a": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.036
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 15,
+      "thesis_a": "Faced with difficult tradeoffs in a complex environment, the central bank has cu",
+      "year_b": 2020,
+      "id_b": 16,
+      "thesis_b": "Staff considers the monetary stance to be modestly accommodative, with further r",
+      "similarity": 0.035
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2017,
+      "id_a": 6,
+      "thesis_a": "The pause in the monetary policy tightening cycle was appropriate.",
+      "year_b": 2021,
+      "id_b": 22,
+      "thesis_b": "In response to the pandemic, the central bank lowered the policy rate to 4 perce",
+      "similarity": 0.032
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2015,
+      "id_a": 3,
+      "thesis_a": "Staff encouraged the authorities to phase out the daily foreign exchange sales, ",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.029
+    },
+    {
+      "category": "Tasa de Política",
+      "year_a": 2020,
+      "id_a": 17,
+      "thesis_a": "With 1-year ahead inflation expectations well anchored, consideration could be g",
+      "year_b": 2022,
+      "id_b": 29,
+      "thesis_b": "Inflation risks are expected to remain heightened for some time.",
+      "similarity": 0.026
+    },
+    {
+      "category": "Tipo de Cambio",
+      "year_a": 2018,
+      "id_a": 11,
+      "thesis_a": "There was agreement that exchange rate flexibility should remain the key shock a",
+      "year_b": 2020,
+      "id_b": 19,
+      "thesis_b": "Another difficult balancing act concerns capital outflow and peso depreciation r",
+      "similarity": 0.012
+    }
+  ]
+}
