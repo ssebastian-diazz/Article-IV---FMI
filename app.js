@@ -15,11 +15,13 @@ const AGREE_COLORS = {
 };
 
 let DATA = null;
+let recById = {};
 
-fetch("dataset.json")
+fetch("data/dataset.json")
   .then((r) => r.json())
   .then((data) => {
     DATA = data;
+    recById = Object.fromEntries(DATA.recommendations.map((r) => [r.id, r]));
     init();
   })
   .catch((err) => {
@@ -30,12 +32,39 @@ fetch("dataset.json")
   });
 
 function init() {
+  renderMastheadStats();
   renderRibbonChart();
   renderAgreementChart();
-  renderRankLists();
   renderStorylines();
   setupBrowser();
   setupTabs();
+}
+
+/* ---------------- Utilidades de texto / evidencia ---------------- */
+
+function escapeHtml(s) {
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+// Envuelve la primera ocurrencia exacta de `fragment` dentro de `text` en un
+// <mark> subrayado del color dado. Si el fragmento no aparece, regresa el
+// texto sin modificar (nunca se rompe el render).
+function underline(text, fragment, color) {
+  const escaped = escapeHtml(text);
+  if (!fragment) return escaped;
+  const escapedFragment = escapeHtml(fragment);
+  const idx = escaped.indexOf(escapedFragment);
+  if (idx === -1) return escaped;
+  return (
+    escaped.slice(0, idx) +
+    `<mark class="evidence-underline" style="color:${color};text-decoration-color:${color};">` +
+    escaped.slice(idx, idx + escapedFragment.length) +
+    "</mark>" +
+    escaped.slice(idx + escapedFragment.length)
+  );
 }
 
 /* ---------------- Tabs ---------------- */
@@ -56,9 +85,35 @@ function setupTabs() {
   });
 }
 
+/* ---------------- Masthead stats ---------------- */
 
+function renderMastheadStats() {
+  const recs = DATA.recommendations;
+  const total = recs.length;
+  const years = DATA.meta.years.length;
+  const categories = DATA.meta.categories.length;
+  const fullAgree = recs.filter(
+    (r) => r.agreement_label === "Acepta / implementa"
+  ).length;
+  const pct = Math.round((fullAgree / total) * 100);
 
-/* ---------------- Ribbon chart (custom SVG stacked columns) ---------------- */
+  const stats = [
+    { value: total, label: "Recomendaciones" },
+    { value: years, label: "Años cubiertos" },
+    { value: categories, label: "Categorías" },
+    { value: pct + "%", label: "Aceptadas sin matices" },
+  ];
+
+  const el = document.getElementById("masthead-stats");
+  el.innerHTML = stats
+    .map(
+      (s) =>
+        `<div class="mstat"><div class="mstat-value">${s.value}</div><div class="mstat-label">${s.label}</div></div>`
+    )
+    .join("");
+}
+
+/* ---------------- Ribbon chart (custom SVG stacked columns, clicable) ---------------- */
 
 function renderRibbonChart() {
   const years = DATA.meta.years;
@@ -72,9 +127,7 @@ function renderRibbonChart() {
   });
 
   const maxCount = Math.max(
-    ...years.map((y) =>
-      Object.values(byYear[y]).reduce((a, b) => a + b, 0)
-    )
+    ...years.map((y) => Object.values(byYear[y]).reduce((a, b) => a + b, 0))
   );
 
   const colW = 76;
@@ -96,7 +149,7 @@ function renderRibbonChart() {
       if (count === 0) return;
       const segH = count * unitH;
       yCursor -= segH;
-      svg += `<rect class="ribbon-seg" x="${x}" y="${yCursor}" width="${colW}" height="${segH}" fill="${CAT_COLORS[cat]}"><title>${cat} — ${y}: ${count}</title></rect>`;
+      svg += `<rect class="ribbon-seg" data-year="${y}" data-category="${cat}" x="${x}" y="${yCursor}" width="${colW}" height="${segH}" fill="${CAT_COLORS[cat]}"><title>${cat} — ${y}: ${count} (clic para ver evidencia)</title></rect>`;
       if (segH > 14) {
         svg += `<text class="ribbon-count-label" x="${x + colW / 2}" y="${
           yCursor + segH / 2 + 4
@@ -117,9 +170,71 @@ function renderRibbonChart() {
         `<div class="legend-item"><span class="legend-swatch" style="background:${CAT_COLORS[cat]}"></span>${cat}</div>`
     )
     .join("");
+
+  document.querySelectorAll("#ribbon-chart .ribbon-seg").forEach((seg) => {
+    seg.addEventListener("click", () => {
+      document
+        .querySelectorAll("#ribbon-chart .ribbon-seg")
+        .forEach((s) => s.classList.remove("selected"));
+      seg.classList.add("selected");
+      showCategoryDetail(Number(seg.dataset.year), seg.dataset.category);
+    });
+  });
 }
 
-/* ---------------- Agreement chart (custom SVG, same idiom as ribbon chart) ---------------- */
+function showCategoryDetail(year, category) {
+  const items = DATA.recommendations.filter(
+    (r) => r.year === year && r.category === category
+  );
+  const panel = document.getElementById("category-detail");
+  const color = CAT_COLORS[category];
+
+  const recsHtml = items
+    .map((r) => {
+      const fragment = (r.category_evidence || [])[0] || null;
+      const fragmentInThesis = fragment && r.thesis.includes(fragment);
+      const fragmentInBody = fragment && !fragmentInThesis && r.body.includes(fragment);
+      const thesisHtml = fragmentInThesis
+        ? underline(r.thesis, fragment, color)
+        : escapeHtml(r.thesis);
+      const bodyHtml = fragmentInBody
+        ? underline(r.body, fragment, color)
+        : escapeHtml(r.body);
+      return `
+      <div class="detail-rec">
+        <p class="detail-rec-thesis">${thesisHtml}</p>
+        <p class="detail-rec-body">${bodyHtml}</p>
+        <div class="detail-evidence-label">Por qué se clasificó como "${category}"</div>
+        <p class="detail-quote">${
+          fragment
+            ? "El fragmento subrayado en el texto de arriba es lo que ubica esta recomendación en esta categoría."
+            : "No se identificó un fragmento único; la clasificación se basa en el sentido general del texto."
+        }</p>
+      </div>`;
+    })
+    .join("");
+
+  panel.innerHTML = `
+    <div class="detail-header">
+      <span class="detail-title">${category} — ${year} (${items.length} ${
+    items.length === 1 ? "recomendación" : "recomendaciones"
+  })</span>
+      <button class="detail-close" id="category-detail-close">Cerrar</button>
+    </div>
+    ${recsHtml}`;
+  panel.classList.remove("hidden");
+  document
+    .getElementById("category-detail-close")
+    .addEventListener("click", () => {
+      panel.classList.add("hidden");
+      document
+        .querySelectorAll("#ribbon-chart .ribbon-seg")
+        .forEach((s) => s.classList.remove("selected"));
+    });
+  panel.scrollIntoView({ behavior: "instant", block: "nearest" });
+}
+
+/* ---------------- Agreement chart (custom SVG, clicable) ---------------- */
 
 function renderAgreementChart() {
   const years = DATA.meta.years;
@@ -156,7 +271,7 @@ function renderAgreementChart() {
       if (count === 0) return;
       const segH = count * unitH;
       yCursor -= segH;
-      svg += `<rect class="ribbon-seg" x="${x}" y="${yCursor}" width="${colW}" height="${segH}" fill="${AGREE_COLORS[level]}"><title>${level} — ${y}: ${count}</title></rect>`;
+      svg += `<rect class="ribbon-seg" data-year="${y}" data-level="${level}" x="${x}" y="${yCursor}" width="${colW}" height="${segH}" fill="${AGREE_COLORS[level]}"><title>${level} — ${y}: ${count} (clic para ver evidencia)</title></rect>`;
       if (segH > 14) {
         svg += `<text class="ribbon-count-label" x="${x + colW / 2}" y="${
           yCursor + segH / 2 + 4
@@ -177,42 +292,62 @@ function renderAgreementChart() {
         `<div class="legend-item"><span class="legend-swatch" style="background:${AGREE_COLORS[level]}"></span>${level}</div>`
     )
     .join("");
+
+  document.querySelectorAll("#agreement-chart .ribbon-seg").forEach((seg) => {
+    seg.addEventListener("click", () => {
+      document
+        .querySelectorAll("#agreement-chart .ribbon-seg")
+        .forEach((s) => s.classList.remove("selected"));
+      seg.classList.add("selected");
+      showAgreementDetail(Number(seg.dataset.year), seg.dataset.level);
+    });
+  });
 }
 
-/* ---------------- Rank lists ---------------- */
+function showAgreementDetail(year, level) {
+  const items = DATA.recommendations.filter(
+    (r) => r.year === year && r.agreement_label === level
+  );
+  const panel = document.getElementById("agreement-detail");
+  const color = AGREE_COLORS[level];
 
-function renderRankLists() {
-  const recs = [...DATA.recommendations];
-
-  const recurrent = [...recs]
-    .sort((a, b) => b.persistence.max_sim_prior - a.persistence.max_sim_prior)
-    .slice(0, 6);
-
-  const novel = recs
-    .filter((r) => r.persistence.max_sim_prior === 0)
-    .slice(0, 6);
-
-  document.getElementById("rank-recurrent").innerHTML = recurrent
-    .map(
-      (r, i) => `
-    <li>
-      <span class="rank-num">${i + 1}</span>
-      <span class="rank-text"><span class="rank-year">${r.year}</span>${r.thesis}</span>
-      <span class="rank-score">${(r.persistence.max_sim_prior * 100).toFixed(0)}%</span>
-    </li>`
-    )
+  const recsHtml = items
+    .map((r) => {
+      const quote = r.agreement_evidence;
+      return `
+      <div class="detail-rec">
+        <p class="detail-rec-thesis">${escapeHtml(r.thesis)}</p>
+        <p class="detail-rec-body">${escapeHtml(r.body)}</p>
+        <div class="detail-evidence-label">Respuesta literal de las autoridades ese año</div>
+        ${
+          quote
+            ? `<p class="detail-quote" style="border-left-color:${color};">"${escapeHtml(
+                quote
+              )}"</p>`
+            : `<p class="detail-quote empty">No se encontró una declaración específica de las autoridades sobre este punto ese año — por eso se clasificó como "${level}".</p>`
+        }
+      </div>`;
+    })
     .join("");
 
-  document.getElementById("rank-novel").innerHTML = novel
-    .map(
-      (r, i) => `
-    <li>
-      <span class="rank-num">${i + 1}</span>
-      <span class="rank-text"><span class="rank-year">${r.year}</span>${r.thesis}</span>
-      <span class="rank-score">nueva</span>
-    </li>`
-    )
-    .join("");
+  panel.innerHTML = `
+    <div class="detail-header">
+      <span class="detail-title">${level} — ${year} (${items.length} ${
+    items.length === 1 ? "recomendación" : "recomendaciones"
+  })</span>
+      <button class="detail-close" id="agreement-detail-close">Cerrar</button>
+    </div>
+    ${recsHtml}`;
+  panel.classList.remove("hidden");
+  document
+    .getElementById("agreement-detail-close")
+    .addEventListener("click", () => {
+      panel.classList.add("hidden");
+      document
+        .querySelectorAll("#agreement-chart .ribbon-seg")
+        .forEach((s) => s.classList.remove("selected"));
+    });
+  panel.scrollIntoView({ behavior: "instant", block: "nearest" });
 }
 
 /* ---------------- Storylines ---------------- */
@@ -220,7 +355,6 @@ function renderRankLists() {
 function renderStorylines() {
   const container = document.getElementById("storylines-container");
   const entries = Object.entries(DATA.storylines);
-
   container.innerHTML = entries
     .map(([cat, story]) => renderStorylineCard(cat, story))
     .join("");
@@ -245,10 +379,9 @@ function renderStorylineCard(cat, story) {
   const color = CAT_COLORS[cat] || "#8A7B6C";
   const years = story.arco.map((b) => b.year);
 
-  // ---- conector SVG ----
   const nodeGap = 130;
   const padX = 40;
-  const svgW = padX * 2 + (years.length - 1) * nodeGap;
+  const svgW = padX * 2 + Math.max(0, years.length - 1) * nodeGap;
   const svgH = 90;
   const cy = 40;
 
@@ -277,15 +410,27 @@ function renderStorylineCard(cat, story) {
 
   svg += `</svg>`;
 
-  // ---- beats ----
   const beatsHtml = story.arco
-    .map(
-      (b) => `
+    .map((b) => {
+      const quotes = (b.rec_ids || [])
+        .map((rid) => recById[rid])
+        .filter(Boolean)
+        .map((r) => `<p class="beat-quote">"${escapeHtml(r.thesis)}"</p>`)
+        .join("");
+      return `
     <div class="beat">
       <div class="beat-year">${b.year}</div>
-      <div class="beat-text">${b.beat}</div>
-    </div>`
-    )
+      <div>
+        <p class="beat-text">${escapeHtml(b.beat)}</p>
+        ${quotes}
+      </div>
+    </div>`;
+    })
+    .join("");
+
+  const conclusiones = (story.conclusiones || [])
+    .slice(0, 3)
+    .map((c) => `<li>${escapeHtml(c)}</li>`)
     .join("");
 
   return `
@@ -294,12 +439,12 @@ function renderStorylineCard(cat, story) {
       <span class="storyline-swatch" style="background:${color}"></span>
       <h3 class="storyline-title">${cat}</h3>
     </div>
-    <p class="storyline-summary">${story.resumen}</p>
+    <p class="storyline-summary">${escapeHtml(story.resumen)}</p>
     <div class="storyline-svg-wrap">${svg}</div>
     <div class="storyline-beats">${beatsHtml}</div>
     <div class="storyline-insight">
-      <strong>Lectura para el dashboard</strong>
-      ${story.insight}
+      <strong>Conclusiones</strong>
+      <ul>${conclusiones}</ul>
     </div>
   </div>`;
 }
@@ -351,7 +496,9 @@ function renderRecList() {
   const year = document.getElementById("filter-year").value;
   const agree = document.getElementById("filter-agreement").value;
 
-  let recs = [...DATA.recommendations].sort((a, b) => b.year - a.year || a.id - b.id);
+  let recs = [...DATA.recommendations].sort(
+    (a, b) => b.year - a.year || a.id - b.id
+  );
 
   if (cat) recs = recs.filter((r) => r.category === cat);
   if (year) recs = recs.filter((r) => r.year === Number(year));
@@ -365,7 +512,7 @@ function renderRecList() {
     .map((r) => {
       const subBullets = r.sub_bullets.length
         ? `<ul style="margin:0 0 10px 18px;padding:0;font-size:14.5px;color:var(--ink-soft);">${r.sub_bullets
-            .map((sb) => `<li style="margin-bottom:4px;">${sb}</li>`)
+            .map((sb) => `<li style="margin-bottom:4px;">${escapeHtml(sb)}</li>`)
             .join("")}</ul>`
         : "";
       return `
@@ -377,8 +524,8 @@ function renderRecList() {
           }">${r.category}</span>
         </div>
         <div class="rec-content">
-          <p class="rec-thesis">${r.thesis}</p>
-          <p class="rec-body">${r.body}</p>
+          <p class="rec-thesis">${escapeHtml(r.thesis)}</p>
+          <p class="rec-body">${escapeHtml(r.body)}</p>
           ${subBullets}
           <div class="rec-footer">
             <span class="rec-agreement" style="border-color:${
@@ -386,7 +533,7 @@ function renderRecList() {
             }; color:${AGREE_COLORS[r.agreement_label]};">${
         r.agreement_label
       }</span>
-            <span class="rec-rationale">${r.agreement_rationale}</span>
+            <span class="rec-rationale">${escapeHtml(r.agreement_rationale)}</span>
           </div>
         </div>
       </div>`;
