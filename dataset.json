@@ -41,6 +41,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Las autoridades reafirman su compromiso con el objetivo de inflación y no contradicen la postura acomodaticia vigente.",
+      "category_evidence": [
+        "continued monetary accommodation would remain appropriate"
+      ],
+      "agreement_evidence": "The Bank of Mexico remains committed to keeping inflation in line with the 3 percent target.",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -56,6 +60,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Reiteran su compromiso con la flexibilidad cambiaria como mecanismo central de ajuste.",
+      "category_evidence": [
+        "flexible exchange rate should continue to play a key role in helping the economy adjust to external shocks"
+      ],
+      "agreement_evidence": "The authorities reiterated their intention to use foreign exchange interventions only on a temporary basis",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -71,6 +79,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Aceptan replegar las intervenciones diarias, pero lo condicionan a que la volatilidad ceda, no de inmediato.",
+      "category_evidence": [
+        "phase out the daily foreign exchange sales"
+      ],
+      "agreement_evidence": "agreed that the daily interventions scheme should be phased out once volatility subsides",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -86,6 +98,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que el alza reciente no inicia un ciclo de endurecimiento y que responderán de forma flexible según datos.",
+      "category_evidence": [
+        "Monetary policy accommodation has been withdrawn steadily"
+      ],
+      "agreement_evidence": "The authorities emphasized that the most recent hike was not the beginning of a tightening cycle.",
       "persistence": {
         "max_sim_prior": 0.32,
         "most_similar_prior_id": 1,
@@ -99,8 +115,12 @@
       "body": "A flexible adjustment of the exchange rate will be indispensable to restore equilibrium in response to a permanent shock arising from increased protectionism and rising barriers to trade. The authorities have a wide range of tools to prevent disorderly market conditions, including discretionary foreign exchange interventions, targeted liquidity provision, and debt duration management. The FCL arrangement, which the authorities continue to treat as precautionary, remains an important complement to reserve buffers, providing protection against tail risks.",
       "sub_bullets": [],
       "category": "Tipo de Cambio",
-      "agreement_label": "Acepta / implementa",
-      "agreement_rationale": "Coinciden en que la flexibilidad cambiaria debe seguir siendo el amortiguador principal.",
+      "agreement_label": "Sin respuesta directa identificable",
+      "agreement_rationale": "La respuesta de las autoridades ese año se enfoca únicamente en la postura de tasa; no hay una declaración específica sobre tipo de cambio en el texto de 2016.",
+      "category_evidence": [
+        "flexible exchange rate should continue to play the role of a key shock absorber"
+      ],
+      "agreement_evidence": null,
       "persistence": {
         "max_sim_prior": 0.214,
         "most_similar_prior_id": 2,
@@ -116,6 +136,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Consideran adecuada la postura vigente para converger a la meta hacia fines de 2018.",
+      "category_evidence": [
+        "pause in the monetary policy tightening cycle"
+      ],
+      "agreement_evidence": "considered that the current stance was adequate to bring inflation back to the 3- percent target by end-2018",
       "persistence": {
         "max_sim_prior": 0.231,
         "most_similar_prior_id": 4,
@@ -131,6 +155,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Enfatizan riesgos externos y necesidad de política restrictiva, sin comprometerse a una fecha o condición de baja.",
+      "category_evidence": [
+        "Bank of Mexico should ease monetary policy"
+      ],
+      "agreement_evidence": "highlighted the need for continued tight monetary policy in the presence of significant external risks facing the economy",
       "persistence": {
         "max_sim_prior": 0.276,
         "most_similar_prior_id": 4,
@@ -146,6 +174,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Coinciden en mejorar la comunicación, pero en dirección distinta: piden más detalle, no necesariamente más concisión como sugiere el staff.",
+      "category_evidence": [
+        "clear communication by the Bank of Mexico"
+      ],
+      "agreement_evidence": "agreed that their monetary policy written communication was on the longer side but felt that more detailed elaboration about the board's thinking and considerations in reaching its decisions was warranted",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -161,6 +193,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que el tipo de cambio ha servido bien como amortiguador.",
+      "category_evidence": [
+        "exchange rate flexibility should remain the key shock absorber"
+      ],
+      "agreement_evidence": "highlighted that the exchange rate remained an important channel for anchoring inflation expectations",
       "persistence": {
         "max_sim_prior": 0.297,
         "most_similar_prior_id": 5,
@@ -176,6 +212,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Enfatizan vigilancia y riesgos al alza por sorpresas inflacionarias, sin comprometerse a bajar la tasa.",
+      "category_evidence": [
+        "current monetary policy stance is adequate but there is scope to gradually ease policy"
+      ],
+      "agreement_evidence": "considered that the monetary policy stance has been determined to bring inflation back to target within the timeframe in which monetary policy operates but emphasized a complex risk environment and the need to remain vigilant",
       "persistence": {
         "max_sim_prior": 0.508,
         "most_similar_prior_id": 7,
@@ -191,6 +231,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que el tipo de cambio ha servido bien como amortiguador externo.",
+      "category_evidence": [
+        "exchange rate flexibility should remain the key shock absorber"
+      ],
+      "agreement_evidence": "the exchange rate has served well as a shock absorber to external developments",
       "persistence": {
         "max_sim_prior": 0.192,
         "most_similar_prior_id": 9,
@@ -206,6 +250,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Coinciden en que hay espacio para bajar la tasa, pero piden cautela dado el entorno de riesgo elevado.",
+      "category_evidence": [
+        "scope to continue easing monetary policy"
+      ],
+      "agreement_evidence": "agreed that there could be scope for further easing but hold the view that caution in policy decisions is required since domestic and external risks remain elevated",
       "persistence": {
         "max_sim_prior": 0.341,
         "most_similar_prior_id": 7,
@@ -221,6 +269,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Valoran las mejoras de comunicación, pero señalan que el entorno de riesgo limita su capacidad de dar forward guidance.",
+      "category_evidence": [
+        "recent improvements in its communication"
+      ],
+      "agreement_evidence": "agreed that recent steps to strengthen communication had been an important improvement and noted that Mexico's complex risk environment limited their ability to engage in forward guidance",
       "persistence": {
         "max_sim_prior": 0.341,
         "most_similar_prior_id": 8,
@@ -236,6 +288,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Coinciden en que la flexibilidad cambiaria ha servido bien a México.",
+      "category_evidence": [
+        "exchange rate flexibility should remain the key shock absorber"
+      ],
+      "agreement_evidence": "agreed that the flexible exchange rate has served Mexico well",
       "persistence": {
         "max_sim_prior": 0.308,
         "most_similar_prior_id": 9,
@@ -251,6 +307,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Describen la misma acción tomada (recorte significativo de tasa) sin contradecir el diagnóstico del staff.",
+      "category_evidence": [
+        "cut the policy rate significantly"
+      ],
+      "agreement_evidence": "eased monetary policy significantly over the past year",
       "persistence": {
         "max_sim_prior": 0.083,
         "most_similar_prior_id": 4,
@@ -266,6 +326,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Señalan que ya han flexibilizado significativamente y que les queda menos margen, aceptando la idea de espacio pero con cautela.",
+      "category_evidence": [
+        "monetary stance to be modestly accommodative, with further room to ease"
+      ],
+      "agreement_evidence": "eased monetary policy significantly over the past year, thereby leaving less margin for future maneuver",
       "persistence": {
         "max_sim_prior": 0.349,
         "most_similar_prior_id": 7,
@@ -281,6 +345,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Mismo matiz: reconocen espacio para bajar la tasa pero enfatizan riesgos a la estabilidad financiera.",
+      "category_evidence": [
+        "consideration could be given to further easing"
+      ],
+      "agreement_evidence": "underscored the benefits of their cautious approach in providing essential support and predictability to markets",
       "persistence": {
         "max_sim_prior": 0.137,
         "most_similar_prior_id": 7,
@@ -296,6 +364,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Notan que la inflación subió con fuerza (100pb sobre la meta) en contraste con el resto de G20, un tono más cauteloso que la lectura de 'transitorio' del staff.",
+      "category_evidence": [
+        "inflation has edged up recently on account of price pressures"
+      ],
+      "agreement_evidence": "headline and core inflation have increased sharply over the last few months and are around 100 basis points above the 3 percent inflation target. This contrasts with the negative inflation gap prevailing in most G20 countries.",
       "persistence": {
         "max_sim_prior": 0.239,
         "most_similar_prior_id": 4,
@@ -311,6 +383,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Abordan las preocupaciones de flujos de capital y depreciación, matizando la importancia de la curva larga de rendimientos.",
+      "category_evidence": [
+        "capital outflow and peso depreciation risks"
+      ],
+      "agreement_evidence": "foster an orderly adjustment of interest rates along the yield curve, containing risk premia at longer tenors",
       "persistence": {
         "max_sim_prior": 0.127,
         "most_similar_prior_id": 2,
@@ -326,6 +402,10 @@
       "category": "Marco de Política Monetaria",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Contextualizan que las revisiones de marco en economías avanzadas responden a un límite inferior efectivo que no aplica a México, sin comprometerse ni rechazar una revisión.",
+      "category_evidence": [
+        "independent review of the monetary policy framework"
+      ],
+      "agreement_evidence": "recent monetary policy framework reviews have taken place in the context of AEs facing the challenges of being at the effective lower bound and of inflation expectations being persistently below their targets. These factors are not present in many EMs, including Mexico.",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -341,6 +421,10 @@
       "category": "Instrumentos y Balance",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Defienden la utilidad de las facilidades existentes como respaldo, sin comprometerse explícitamente a mejorarlas o ampliarlas.",
+      "category_evidence": [
+        "central bank's financing facilities"
+      ],
+      "agreement_evidence": "viewed the liquidity and credit facilities as having provided an important backstop to banks, which, although not currently needed by most, provides protection against downside risks",
       "persistence": {
         "max_sim_prior": 0.0,
         "most_similar_prior_id": null,
@@ -356,6 +440,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Sin respuesta directa identificable",
       "agreement_rationale": "Es una descripción de la acción ya tomada (recorte a 4%), no una recomendación activa que las autoridades respondan punto por punto.",
+      "category_evidence": [
+        "central bank lowered the policy rate to 4 percent"
+      ],
+      "agreement_evidence": null,
       "persistence": {
         "max_sim_prior": 0.291,
         "most_similar_prior_id": 15,
@@ -371,6 +459,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "La subida de 75pb y el refuerzo de transparencia descritos son consistentes con la lectura del staff.",
+      "category_evidence": [
+        "central bank has raised the policy rate by 75 basis points"
+      ],
+      "agreement_evidence": "deemed it necessary to start removing monetary accommodation to keep inflation expectations anchored and guard against second-round effects",
       "persistence": {
         "max_sim_prior": 0.279,
         "most_similar_prior_id": 16,
@@ -386,6 +478,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Ambos reconocen los riesgos de shocks transitorios y la necesidad de vigilancia, sin definir aún una trayectoria.",
+      "category_evidence": [
+        "tightening monetary policy could provide insurance"
+      ],
+      "agreement_evidence": "The authorities considered that current price pressures are predominantly exogenous and are expected to be temporary. Nonetheless, given their breadth and magnitude, and the extended horizon over which inflation has exceeded the target, they deemed it necessary to start removing monetary accommodation",
       "persistence": {
         "max_sim_prior": 0.272,
         "most_similar_prior_id": 4,
@@ -401,6 +497,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que ya iniciaron el retiro gradual de acomodación, alineado con la recomendación.",
+      "category_evidence": [
+        "gradual path of policy normalization"
+      ],
+      "agreement_evidence": "deemed it necessary to start removing monetary accommodation to keep inflation expectations anchored and guard against second-round effects",
       "persistence": {
         "max_sim_prior": 0.293,
         "most_similar_prior_id": 15,
@@ -416,6 +516,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Destacan mejoras recientes, pero matizan que publicar la trayectoria completa de tasa requiere una evaluación cuidadosa por riesgos de credibilidad.",
+      "category_evidence": [
+        "Greater clarity on the central bank's assessment"
+      ],
+      "agreement_evidence": "publishing the path of interest rates in the baseline forecast would need careful assessment and gauging of potential benefits against possible risks of undermining its communication strategy",
       "persistence": {
         "max_sim_prior": 0.147,
         "most_similar_prior_id": 8,
@@ -431,6 +535,10 @@
       "category": "Marco de Política Monetaria",
       "agreement_label": "Reconoce el punto pero no se compromete",
       "agreement_rationale": "Indican que las revisiones de marco deben hacerse en frecuencia predeterminada, posiblemente tras superar el choque de COVID, sin comprometerse a un calendario.",
+      "category_evidence": [
+        "strategic review of the monetary policy framework"
+      ],
+      "agreement_evidence": "monetary policy framework reviews are best conducted on a pre-determined regular frequency and, in any case, could be considered once the COVID-19 shock is over",
       "persistence": {
         "max_sim_prior": 0.458,
         "most_similar_prior_id": 20,
@@ -446,6 +554,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Coinciden con la narrativa de una respuesta temprana y decisiva frente a la inflación.",
+      "category_evidence": [
+        "increases in the reference rate brought the ex ante real policy rate"
+      ],
+      "agreement_evidence": "The early and decisive monetary policy response to the global inflation surge had been successful",
       "persistence": {
         "max_sim_prior": 0.318,
         "most_similar_prior_id": 23,
@@ -461,6 +573,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Concuerdan en que persisten riesgos al alza para la inflación.",
+      "category_evidence": [
+        "further increases in the policy rate"
+      ],
+      "agreement_evidence": "noting that upside risks to inflation were recognized early even when the surge was still considered transitory in the baseline",
       "persistence": {
         "max_sim_prior": 0.292,
         "most_similar_prior_id": 1,
@@ -476,6 +592,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman una postura restrictiva sostenida, acorde a la recomendación de mantener tasas altas.",
+      "category_evidence": [
+        "further increases in the policy rate and maintaining it at that higher level"
+      ],
+      "agreement_evidence": "underscored that the real policy rate was now in restrictive territory despite continued upward surprises to inflation",
       "persistence": {
         "max_sim_prior": 0.298,
         "most_similar_prior_id": 4,
@@ -491,6 +611,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Destacan el fortalecimiento de su comunicación y el compromiso de seguir evaluando nuevas herramientas.",
+      "category_evidence": [
+        "Clear monetary policy communication will increase policy effectiveness"
+      ],
+      "agreement_evidence": "highlighted their strengthened communication efforts, which had ensured smooth financial market adjustment in this hiking cycle. They will continue to evaluate other tools that could improve communication.",
       "persistence": {
         "max_sim_prior": 0.288,
         "most_similar_prior_id": 8,
@@ -506,6 +630,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Concuerdan y defienden la postura restrictiva como parte de su mandato legal.",
+      "category_evidence": [
+        "raising its policy rate from 4 percent in June 2021 to 11.25 percent in March 2023"
+      ],
+      "agreement_evidence": "A restrictive stance to bring inflation back to its target is consistent with Banxico's legal mandate.",
       "persistence": {
         "max_sim_prior": 0.309,
         "most_similar_prior_id": 28,
@@ -521,6 +649,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Sostienen mantener la tasa en su nivel actual por un período extendido, tal como sugiere el staff.",
+      "category_evidence": [
+        "caution in reducing the policy rate"
+      ],
+      "agreement_evidence": "it will be necessary to maintain the reference rate at its current level for an extended period",
       "persistence": {
         "max_sim_prior": 0.24,
         "most_similar_prior_id": 30,
@@ -536,6 +668,10 @@
       "category": "Marco de Política Monetaria",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que realizan evaluaciones internas regulares y que continuarán con ese ejercicio de revisión.",
+      "category_evidence": [
+        "internal strategic review of Banxico's operations and communications"
+      ],
+      "agreement_evidence": "Banxico is continually improving its implementation of monetary policy and conducts regular internal evaluations of its operations and communications. As the lingering effects of the pandemic subside, Banxico will continue with its internal stocktaking",
       "persistence": {
         "max_sim_prior": 0.144,
         "most_similar_prior_id": 27,
@@ -551,6 +687,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que la flexibilidad cambiaria sigue siendo el mecanismo principal de ajuste.",
+      "category_evidence": [
+        "Exchange rate flexibility should continue to facilitate the adjustment"
+      ],
+      "agreement_evidence": "The flexible exchange rate is a key shock absorber.",
       "persistence": {
         "max_sim_prior": 0.191,
         "most_similar_prior_id": 9,
@@ -566,6 +706,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Coinciden en que la inflación núcleo va a la baja, aunque persisten riesgos.",
+      "category_evidence": [
+        "timely tightening of monetary policy"
+      ],
+      "agreement_evidence": "agreed that core inflation was on a downward trajectory, although services inflation remains sticky",
       "persistence": {
         "max_sim_prior": 0.319,
         "most_similar_prior_id": 7,
@@ -581,6 +725,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Reiteran que las decisiones futuras serán consistentes con alcanzar la meta de inflación en 2025.",
+      "category_evidence": [
+        "reducing the policy rate to 10 percent"
+      ],
+      "agreement_evidence": "reiterated that future rate decisions would ensure that the policy path remains consistent with achieving the inflation target by end 2025",
       "persistence": {
         "max_sim_prior": 0.275,
         "most_similar_prior_id": 33,
@@ -596,6 +744,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Coinciden en la importancia de mejorar comunicación, pero matizan que el momento de los cambios debe calibrarse para evitar consecuencias no deseadas.",
+      "category_evidence": [
+        "enhancing Banxico's communication toolkit"
+      ],
+      "agreement_evidence": "agreed with the importance of a communication strategy in enhancing the effectiveness of monetary policy but noted that the timing of any changes should be calibrated to avoid unintended consequences",
       "persistence": {
         "max_sim_prior": 0.304,
         "most_similar_prior_id": 8,
@@ -611,6 +763,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Confirman que México mantiene un régimen de tipo de cambio flexible.",
+      "category_evidence": [
+        "Mexico continues to maintain a fully flexible exchange rate"
+      ],
+      "agreement_evidence": "A flexible exchange rate remains a key shock absorber",
       "persistence": {
         "max_sim_prior": 0.463,
         "most_similar_prior_id": 35,
@@ -626,6 +782,10 @@
       "category": "Tasa de Política",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Reiteran compromiso con decisiones consistentes con la meta; ven la inflación en trayectoria descendente aunque con riesgos al alza.",
+      "category_evidence": [
+        "Further monetary easing should be conditioned"
+      ],
+      "agreement_evidence": "reaffirmed their commitment to policy rate decisions that are consistent with achieving the inflation target during the forecast period",
       "persistence": {
         "max_sim_prior": 0.302,
         "most_similar_prior_id": 4,
@@ -645,6 +805,10 @@
       "category": "Comunicación",
       "agreement_label": "Acepta parcialmente",
       "agreement_rationale": "Valoran la importancia de desarrollar su estrategia de comunicación, pero advierten explícitamente que publicar escenarios alternativos o guía explícita de tasa podría dañar la flexibilidad y credibilidad de la política monetaria.",
+      "category_evidence": [
+        "enhance Banxico's communication tools"
+      ],
+      "agreement_evidence": "cautioning that publishing alternative scenarios or more explicit guidance on the policy rate path could be detrimental to flexibility and credibility of monetary policy when responding to shocks",
       "persistence": {
         "max_sim_prior": 0.315,
         "most_similar_prior_id": 38,
@@ -660,6 +824,10 @@
       "category": "Tipo de Cambio",
       "agreement_label": "Acepta / implementa",
       "agreement_rationale": "Reiteran que el tipo de cambio flexible sigue funcionando como amortiguador clave.",
+      "category_evidence": [
+        "exchange rate should continue to be a shock absorber"
+      ],
+      "agreement_evidence": "reiterated that the flexible exchange rate continues to serve as a key shock absorber",
       "persistence": {
         "max_sim_prior": 0.513,
         "most_similar_prior_id": 39,
@@ -669,144 +837,275 @@
   ],
   "storylines": {
     "Tipo de Cambio": {
-      "resumen": "El tema de mayor consenso de la década. En 10 de 10 años, el FMI recomienda mantener el tipo de cambio flexible como amortiguador principal, y Banxico coincide prácticamente sin matices en 9 de esas 10 ocasiones.",
+      "resumen": "El tema de mayor consenso de la década. En 10 de 10 años, el FMI recomienda mantener el tipo de cambio flexible como amortiguador principal. En 9 de esos 10 años hay una declaración textual de las autoridades coincidiendo; en 2016 no hay una declaración específica sobre este punto ese año.",
       "arco": [
         {
           "year": 2015,
-          "beat": "Arranque: el FMI pide replegar las intervenciones diarias de FX y enfocar las reservas solo a episodios de desorden. Banxico acepta, pero condiciona el repliegue a que baje la volatilidad."
+          "rec_ids": [
+            2,
+            3
+          ],
+          "beat": "Arranque de la serie: el FMI pide mantener la flexibilidad cambiaria como mecanismo central y replegar las intervenciones diarias de FX."
         },
         {
           "year": 2016,
-          "beat": "Primera reafirmación plena: el tipo de cambio flexible debe seguir como amortiguador ante el choque de proteccionismo comercial. Acuerdo total."
+          "rec_ids": [
+            5
+          ],
+          "beat": "El FMI repite la recomendación de flexibilidad cambiaria; ese año no hay una declaración textual de las autoridades que la aborde específicamente."
         },
         {
           "year": 2017,
-          "beat": "Se repite casi textual, ahora con mención específica a los forwards no entregables (NDFs) como instrumento adicional. Banxico coincide y defiende el uso limitado de intervención."
+          "rec_ids": [
+            9
+          ],
+          "beat": "Tercer año consecutivo con el mismo mensaje, ahora con mención específica a los forwards no entregables (NDFs) como instrumento adicional."
         },
         {
           "year": 2018,
-          "beat": "Tercer año consecutivo con el mismo mensaje. La flexibilidad cambiaria ya es más una constatación que una recomendación activa."
+          "rec_ids": [
+            11
+          ],
+          "beat": "Se repite otra vez. Las autoridades declaran textualmente que el tipo de cambio ha servido bien como amortiguador."
         },
         {
           "year": 2019,
-          "beat": "Se mantiene la fórmula. El FMI destaca el rol del tipo de cambio absorbiendo el giro de México de exportador a importador neto de petróleo."
+          "rec_ids": [
+            14
+          ],
+          "beat": "Se mantiene la fórmula, ahora vinculada al giro de México de exportador a importador neto de petróleo."
         },
         {
           "year": 2020,
-          "beat": "Único año con matiz real: el FMI atiende explícitamente los riesgos de salida de capital y depreciación del peso durante el choque COVID, más allá de la fórmula estándar. Banxico coincide parcialmente, matizando la importancia de la curva larga de rendimientos."
+          "rec_ids": [
+            19
+          ],
+          "beat": "Único año con variación real: el FMI atiende explícitamente los riesgos de salida de capital y depreciación del peso durante el choque COVID."
         },
         {
           "year": 2023,
-          "beat": "Vuelve la fórmula estándar, ahora enmarcada explícitamente en el Integrated Policy Framework (IPF) del propio FMI."
+          "rec_ids": [
+            35
+          ],
+          "beat": "Vuelve la fórmula estándar, enmarcada explícitamente en el Integrated Policy Framework (IPF) del propio FMI."
         },
         {
           "year": 2024,
-          "beat": "Prácticamente idéntica a 2023 (similaridad textual de 0.46): 'México mantiene un tipo de cambio totalmente flexible'."
+          "rec_ids": [
+            39
+          ],
+          "beat": "Prácticamente idéntica a 2023 (similaridad textual de 46%): México mantiene un tipo de cambio totalmente flexible."
         },
         {
           "year": 2025,
-          "beat": "Se repite una vez más, ahora con la frase más corta de toda la serie: 'el tipo de cambio debe seguir siendo un amortiguador' (similaridad de 0.51 con 2024, la más alta de todo el dataset)."
+          "rec_ids": [
+            42
+          ],
+          "beat": "Se repite una vez más, con la similaridad textual más alta de todo el dataset frente al año anterior (51%)."
         }
       ],
-      "insight": "Este es el ejemplo más claro de recomendación 'resuelta': no hay tensión, no hay evolución sustantiva, solo reafirmación anual. Útil como caso de control en el dashboard — contraste directo con Comunicación, donde sí hay fricción real."
+      "conclusiones": [
+        "El FMI hizo esta misma recomendación en 10 de los 11 años analizados (todos menos 2021 y 2022, años en que el tema quedó implícito en la discusión de tasa).",
+        "La recomendación de 2025 y la de 2024 tienen una similaridad textual de 51%, la más alta entre cualquier par de años en todo el dataset.",
+        "En 9 de las 10 ocasiones hay una cita textual de las autoridades coincidiendo explícitamente; en 2016 no se encontró una declaración específica sobre este punto."
+      ]
     },
     "Tasa de Política": {
-      "resumen": "El bloque más grande (22 de 42 recomendaciones) y el que más fielmente sigue el ciclo macroeconómico real. Es también donde se concentra la única fricción sostenida entre el FMI y Banxico: 2020.",
+      "resumen": "El bloque más grande (22 de 42 recomendaciones) y el que más fielmente sigue el ciclo macroeconómico real. También es donde se concentra la mayor proporción de niveles de acuerdo distintos a 'Acepta / implementa'.",
       "arco": [
         {
           "year": 2015,
+          "rec_ids": [
+            1
+          ],
           "beat": "Tono dovish: inflación subyacente controlada, la acomodación monetaria sigue siendo apropiada."
         },
         {
           "year": 2016,
-          "beat": "El FMI valida la pausa en el ciclo de alzas ya iniciado por Banxico. Primeras señales de que las decisiones deben ser 'data driven'."
+          "rec_ids": [
+            4
+          ],
+          "beat": "El FMI valida la pausa en el ciclo de alzas. Las autoridades declaran textualmente que el alza reciente 'no fue el inicio de un ciclo de endurecimiento'."
         },
         {
           "year": 2017,
-          "beat": "Aparece la primera fricción real: el FMI empieza a sugerir condiciones para bajar la tasa ('conditional on inflation expectations remaining anchored'), pero Banxico se enfoca en los riesgos externos sin comprometerse — la marcamos como 'reconoce pero no se compromete'."
+          "rec_ids": [
+            6,
+            7
+          ],
+          "beat": "Dos recomendaciones ese año: una valida la pausa (acuerdo pleno); la otra pide condicionar una baja futura a que la inflación tenga trayectoria firme a la baja, y ahí las autoridades solo responden citando riesgos externos, sin comprometerse."
         },
         {
           "year": 2018,
-          "beat": "Se repite casi el mismo patrón que 2017 (similaridad de 0.51, la segunda más alta del dataset): el FMI insiste en el espacio para bajar tasa 'gradualmente', Banxico sigue priorizando vigilancia."
+          "rec_ids": [
+            10
+          ],
+          "beat": "Se repite casi el mismo patrón que 2017 (51% de similaridad textual, la segunda más alta del dataset): el FMI insiste en el espacio para bajar tasa gradualmente."
         },
         {
           "year": 2019,
-          "beat": "El FMI insiste por tercer año consecutivo en el espacio para bajar tasas. Banxico por fin empieza a moverse, aunque con cautela — acuerdo parcial."
+          "rec_ids": [
+            12
+          ],
+          "beat": "El FMI insiste por tercer año en el espacio para bajar tasas. Las autoridades aceptan que hay espacio pero piden cautela por riesgos elevados."
         },
         {
           "year": 2020,
-          "beat": "Punto de mayor tensión de toda la serie: ante el choque COVID, el FMI pide explícitamente más recortes dado el output gap más grande en décadas. Banxico —tres recomendaciones distintas ese año tocan este punto— responde que ya bajó mucho y le queda poco margen, priorizando la estabilidad financiera sobre el estímulo adicional. Es el único tramo del dataset con varias recomendaciones consecutivas en 'acepta parcialmente' o peor."
+          "rec_ids": [
+            15,
+            16,
+            17,
+            18
+          ],
+          "beat": "Año con más recomendaciones de tasa en toda la serie (4). Las autoridades declaran textualmente que ya 'flexibilizaron significativamente, dejando menos margen para maniobrar' — la respuesta más cautelosa de todo el dataset frente a una petición de más estímulo."
         },
         {
           "year": 2021,
-          "beat": "El ciclo gira: con la inflación por encima de la meta, el FMI reconoce el dilema (transitorio vs. persistente) y respalda la normalización gradual que Banxico ya inició. Vuelve el acuerdo pleno."
+          "rec_ids": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "beat": "El ciclo gira: con la inflación por encima de la meta, las autoridades declaran que 'era necesario empezar a retirar la acomodación monetaria', alineándose con la normalización gradual que pide el FMI."
         },
         {
           "year": 2022,
-          "beat": "Convergencia total: ambos coinciden en que la política restrictiva debe continuar y mantenerse. El FMI incluso elogia el enfoque 'proactivo' de Banxico."
+          "rec_ids": [
+            28,
+            29,
+            30
+          ],
+          "beat": "Convergencia total: las autoridades declaran que la respuesta 'temprana y decisiva' fue exitosa, y confirman la tasa real en terreno restrictivo."
         },
         {
           "year": 2023,
-          "beat": "Se repite el mismo mensaje casi textual (similaridad 0.31 con 2022): cautela ante riesgos al alza, mantener la tasa restrictiva. Acuerdo pleno."
+          "rec_ids": [
+            32,
+            33
+          ],
+          "beat": "Se repite el mismo mensaje: las autoridades declaran textualmente que 'será necesario mantener la tasa de referencia en su nivel actual por un período extendido'."
         },
         {
           "year": 2024,
-          "beat": "El FMI reconoce que el ajuste oportuno de Banxico ancló las expectativas. Ambos coinciden en un ritmo de relajamiento condicionado a la convergencia de la inflación."
+          "rec_ids": [
+            36,
+            37
+          ],
+          "beat": "Las autoridades confirman que la inflación núcleo va a la baja y reiteran que las decisiones futuras serán consistentes con la meta de 2025."
         },
         {
           "year": 2025,
-          "beat": "Última entrada de la serie: el FMI pide condicionar más recortes a evidencia clara de convergencia. Banxico coincide plenamente."
+          "rec_ids": [
+            40
+          ],
+          "beat": "Última entrada de la serie: las autoridades reafirman su compromiso con decisiones de tasa consistentes con la meta de inflación."
         }
       ],
-      "insight": "El arco cuenta una historia de divergencia-convergencia: friccion moderada 2017-2018 (Banxico más cauto que el FMI), fricción aguda en 2020 (roles invertidos: FMI más dovish que Banxico), y convergencia casi total de 2021 en adelante. Ideal para un gráfico de línea de 'distancia de postura' FMI-Banxico a lo largo del tiempo."
+      "conclusiones": [
+        "De las 22 recomendaciones de esta categoría, 14 quedaron en 'Acepta / implementa' y 8 en un nivel de acuerdo menor — la proporción de fricción más alta de las cinco categorías.",
+        "2020 es el único año con 4 recomendaciones de tasa en el mismo Article IV, y las autoridades usaron la frase textual 'dejando menos margen para maniobrar' para matizar la petición de más recortes del FMI.",
+        "Las recomendaciones de 2017 y 2018 tienen 51% de similaridad textual entre sí, y en ambos años las autoridades respondieron sin comprometerse a una fecha de baja de tasa."
+      ]
     },
     "Comunicación": {
-      "resumen": "El tema con la fricción más persistente y menos resuelta de todo el dataset. El FMI pide lo mismo —más transparencia sobre la trayectoria de tasa— en al menos tres años distintos (2021, 2024, 2025), y Banxico responde con la misma objeción cada vez.",
+      "resumen": "El tema con la fricción más persistente y menos resuelta del dataset. El FMI pide más transparencia sobre la trayectoria de tasa en al menos tres años distintos (2021, 2024, 2025), y en 2021 y 2025 las autoridades citan textualmente el mismo riesgo para no hacerlo: dañar la flexibilidad y credibilidad de la política monetaria.",
       "arco": [
         {
           "year": 2017,
-          "beat": "Primer round: el FMI pide comunicación más clara y menos centrada en el diferencial con EU. Banxico responde que su comunicación ya es extensa y que prefiere ELABORAR más, no simplificar — una divergencia de enfoque, no solo de grado."
+          "rec_ids": [
+            8
+          ],
+          "beat": "Primer round: el FMI pide comunicación más clara. Las autoridades declaran textualmente que preferían dar 'una elaboración más detallada', no simplificar — una divergencia de enfoque, no solo de grado."
         },
         {
           "year": 2019,
-          "beat": "El FMI cambia de tono: elogia las mejoras recientes, pero ahora pide mantener la comunicación CONCISA. Banxico acepta el elogio pero se cubre citando el entorno de riesgo como límite a su forward guidance."
+          "rec_ids": [
+            13
+          ],
+          "beat": "El FMI cambia de tono: elogia las mejoras recientes, pide mantener la comunicación concisa. Las autoridades responden citando que 'el entorno de riesgo complejo de México limita su capacidad de dar forward guidance'."
         },
         {
           "year": 2021,
-          "beat": "Primera propuesta concreta y específica: publicar la trayectoria esperada de tasa (fan charts, escenarios). Banxico responde con cautela explícita: hacerlo podría minar la flexibilidad y credibilidad de la política."
+          "rec_ids": [
+            26
+          ],
+          "beat": "Primera propuesta concreta: publicar la trayectoria esperada de tasa. Las autoridades responden textualmente que 'publicar la trayectoria de tasas necesitaría una evaluación cuidadosa' por los riesgos a la credibilidad."
         },
         {
           "year": 2022,
-          "beat": "Cambio de tono: Banxico adopta guía cualitativa direccional (sin trayectoria numérica) y el FMI lo reconoce como avance genuino. Único año de acuerdo pleno en este tema."
+          "rec_ids": [
+            31
+          ],
+          "beat": "Único año de acuerdo pleno en este tema: las autoridades declaran que sus 'esfuerzos de comunicación fortalecidos... aseguraron un ajuste ordenado de los mercados financieros'."
         },
         {
           "year": 2024,
-          "beat": "El FMI regresa a pedir más detalle sobre supuestos y trayectoria de tasa, ahora con propuestas más técnicas (acortar el rezago de publicación de minutas). Banxico coincide en la importancia pero matiza el momento de implementar cambios."
+          "rec_ids": [
+            38
+          ],
+          "beat": "El FMI regresa a pedir más detalle sobre supuestos y trayectoria de tasa. Las autoridades coinciden en la importancia pero matizan que 'el momento de cualquier cambio debe calibrarse para evitar consecuencias no deseadas'."
         },
         {
           "year": 2025,
-          "beat": "Se repite casi la misma solicitud que en 2021 (similaridad de 0.32 con 2024, y la idea central es prácticamente la misma que hace 4 años): publicar escenarios y trayectoria de tasa. Banxico da la misma respuesta que en 2021 casi palabra por palabra: podría dañar la flexibilidad y credibilidad."
+          "rec_ids": [
+            41
+          ],
+          "beat": "Se repite básicamente la misma solicitud que en 2021 (32% de similaridad textual con 2024). Las autoridades responden citando el mismo riesgo que en 2021: publicar escenarios o guía explícita de tasa 'podría ser perjudicial para la flexibilidad y credibilidad' de la política monetaria."
         }
       ],
-      "insight": "Esta es la storyline más fuerte para el dashboard: una recomendación específica (publicar la trayectoria de tasa) que el FMI ha repetido en al menos 3 ocasiones a lo largo de 4 años, con la misma respuesta de Banxico cada vez. Es el ejemplo más claro de 'recomendación no resuelta' del dataset completo."
+      "conclusiones": [
+        "El FMI pidió explícitamente publicar la trayectoria de tasa o escenarios alternativos en 2021 y 2025, y en ambos años las autoridades citaron el mismo riesgo (daño a la flexibilidad y credibilidad) para no hacerlo.",
+        "De las 6 recomendaciones de esta categoría, solo 1 (2022) tiene un nivel de acuerdo de 'Acepta / implementa' sin matices; las otras 5 son 'Acepta parcialmente'.",
+        "2017 es el único año donde la respuesta de las autoridades va en dirección contraria a lo pedido: el FMI sugiere comunicación más enfocada, y ellas responden que preferían dar más detalle, no menos."
+      ]
     },
     "Marco de Política Monetaria": {
-      "resumen": "Solo 3 recomendaciones, pero cuentan una historia completa de maduración de una idea en 3 años.",
+      "resumen": "Solo 3 recomendaciones, pero documentadas con cita textual en cada año, cuentan una historia completa de maduración de una idea en 3 años.",
       "arco": [
         {
           "year": 2020,
-          "beat": "El FMI plantea por primera vez una revisión independiente del marco de política monetaria. Banxico responde contextualizando: las revisiones en economías avanzadas responden a un límite inferior efectivo que no aplica a México — ni acepta ni rechaza de frente, pero no se compromete."
+          "rec_ids": [
+            20
+          ],
+          "beat": "El FMI plantea por primera vez una revisión independiente del marco. Las autoridades responden textualmente que las revisiones de este tipo en economías avanzadas responden a un límite inferior efectivo, y que 'estos factores no están presentes en muchas economías emergentes, incluido México'."
         },
         {
           "year": 2021,
-          "beat": "El FMI insiste con fraseo casi idéntico (similaridad de 0.46 con 2020, la cuarta más alta del dataset): una revisión estratégica 'podría sugerir áreas de mejora'. Banxico repite el mismo tipo de respuesta: las revisiones deben hacerse en frecuencia predeterminada, mejor esperar a que pase el choque de COVID."
+          "rec_ids": [
+            27
+          ],
+          "beat": "El FMI insiste con fraseo casi idéntico (46% de similaridad textual con 2020, la cuarta más alta del dataset). Las autoridades responden textualmente que las revisiones de marco 'se conducen mejor en una frecuencia predeterminada y regular' y podrían considerarse una vez superado el choque de COVID."
         },
         {
           "year": 2023,
-          "beat": "Tercer intento, con lenguaje más suave ('podría ser valioso'). Esta vez Banxico responde de forma distinta: confirma que SÍ realiza evaluaciones internas regulares de sus operaciones y comunicación, y que continuará haciéndolo — la idea, en una versión más modesta (interna, no independiente/externa), termina siendo absorbida."
+          "rec_ids": [
+            34
+          ],
+          "beat": "Tercer intento, con lenguaje más suave ('podría ser valioso'). Las autoridades responden de forma distinta: declaran textualmente que Banxico 'realiza evaluaciones internas regulares de sus operaciones y comunicaciones' y que continuará con ese ejercicio."
         }
       ],
-      "insight": "Ejemplo perfecto de cómo una recomendación ambiciosa (revisión independiente/externa) se resiste dos veces y termina materializándose en una versión diluida (revisión interna) al tercer intento. Buen caso para ilustrar 'maduración de idea' en el dashboard."
+      "conclusiones": [
+        "Las tres recomendaciones de esta categoría tienen cita textual de respuesta de las autoridades, ningún año quedó sin registro.",
+        "2020 y 2021 tienen 46% de similaridad textual entre sí — la cuarta más alta del dataset — porque el FMI pide prácticamente lo mismo dos años seguidos.",
+        "El nivel de acuerdo cambia de 'Reconoce el punto pero no se compromete' (2020 y 2021) a 'Acepta / implementa' (2023), coincidiendo con el cambio de lenguaje de 'revisión independiente' a 'revisión interna'."
+      ]
+    },
+    "Instrumentos y Balance": {
+      "resumen": "Una sola recomendación en toda la década, exclusiva del año de emergencia por COVID-19.",
+      "arco": [
+        {
+          "year": 2020,
+          "rec_ids": [
+            21
+          ],
+          "beat": "Único año con esta categoría: el FMI sugiere mejorar el atractivo de las facilidades de financiamiento del banco central. Las autoridades responden textualmente que vieron esas facilidades 'como un respaldo importante para los bancos', defendiendo su utilidad sin comprometerse a ampliarlas."
+        }
+      ],
+      "conclusiones": [
+        "Esta categoría representa 1 de las 42 recomendaciones totales, y aparece únicamente en 2020.",
+        "El nivel de acuerdo asignado es 'Reconoce el punto pero no se compromete', respaldado por la cita textual de las autoridades sobre el rol de las facilidades como respaldo, no como herramienta a expandir."
+      ]
     }
   },
   "similarity_pairs": [
