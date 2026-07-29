@@ -7,19 +7,24 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
 <header class="masthead">
-  <div class="wrap">
-    <div class="masthead-top">
-      <span class="kicker">Banco de México · DAI </span>
-      <span class="kicker kicker-right">Artículo IV del FMI, 2015–2025</span>
+  <div class="hero-band">
+    <div class="wrap">
+      <div class="masthead-top">
+        <span class="kicker">Banco de México · Insumo de análisis</span>
+        <span class="kicker kicker-right">Artículo IV del FMI, 2015–2025</span>
+      </div>
+      <h1>Once años de consejo monetario<br>al Banco de México</h1>
+      <p class="dek">Qué le ha pedido el FMI a Banxico cada año en materia de tasa de interés, comunicación, tipo de cambio y marco de política monetaria — y cómo ha respondido la Junta de Gobierno cada vez.</p>
     </div>
-    <h1>IMF Article IV Consultation<br>for Mexico</h1>
-    <p class="dek">Análisis de las recomendaciones de política monetaria que el Fondo Monetario Internacional ha hecho al Banco de México en los últimos diez años.</p>
-   <div class="masthead-stats" id="masthead-stats"></div>
+  </div>
+  <div class="wrap">
+    <div class="masthead-stats" id="masthead-stats"></div>
+  </div>
 </header>
 
 <nav class="tabbar">
@@ -37,38 +42,25 @@
 
     <section class="block">
       <h2 class="block-title">Qué tema domina cada año</h2>
-      <p class="block-note">Distribución de las recomendaciones de política monetaria por categoría. El tamaño de cada bloque es el número de recomendaciones ese año.</p>
+      <p class="block-note">Distribución de las recomendaciones de política monetaria por categoría. El tamaño de cada bloque es el número de recomendaciones ese año. Haz clic en un bloque para ver el texto literal y qué fragmento justifica esa categoría.</p>
       <div id="ribbon-chart" class="ribbon-chart"></div>
       <div class="legend" id="ribbon-legend"></div>
+      <div id="category-detail" class="detail-panel hidden"></div>
     </section>
 
     <section class="block">
       <h2 class="block-title">Nivel de acuerdo de Banxico, año con año</h2>
-      <p class="block-note">Cómo respondió la Junta de Gobierno a cada recomendación del FMI ese año, en cinco niveles: de aceptación plena a ausencia de respuesta directa.</p>
+      <p class="block-note">Cómo respondió la Junta de Gobierno a cada recomendación del FMI ese año, en cinco niveles: de aceptación plena a ausencia de respuesta directa. Haz clic en un bloque para ver el texto literal de la recomendación y de la respuesta de las autoridades.</p>
       <div id="agreement-chart" class="agreement-chart"></div>
       <div class="legend" id="agreement-legend"></div>
-    </section>
-
-    <section class="block">
-      <h2 class="block-title">Lo más y lo menos repetido</h2>
-      <p class="block-note">Cada recomendación comparada por similaridad textual contra recomendaciones anteriores de la misma categoría. Entre más alto el número, más veces se ha pedido prácticamente lo mismo.</p>
-      <div class="split-two">
-        <div>
-          <h3 class="sub-title">Más recurrentes</h3>
-          <ol class="rank-list" id="rank-recurrent"></ol>
-        </div>
-        <div>
-          <h3 class="sub-title">Ideas más nuevas</h3>
-          <ol class="rank-list" id="rank-novel"></ol>
-        </div>
-      </div>
+      <div id="agreement-detail" class="detail-panel hidden"></div>
     </section>
 
   </section>
 
   <!-- ============ VISTA: STORYLINES ============ -->
   <section class="view hidden" id="view-storylines">
-    <p class="block-note intro-note">Cada categoría cuenta su propia historia a lo largo de la década. El grosor de la línea entre dos años indica qué tan parecida es esa recomendación a la anterior de la misma categoría — una línea gruesa significa que el FMI está pidiendo, otra vez, prácticamente lo mismo.</p>
+    <p class="block-note intro-note">Cada categoría cuenta su propia historia a lo largo de la década. El grosor de la línea entre dos años indica qué tan parecida es esa recomendación a la anterior de la misma categoría — una línea gruesa significa que el FMI está pidiendo, otra vez, prácticamente lo mismo. Cada punto del arco incluye el texto literal de la recomendación correspondiente.</p>
     <div id="storylines-container"></div>
   </section>
 
@@ -96,11 +88,12 @@
 </main>
 
 <footer class="site-footer">
-  <div class="wrap">
+  <div class="wrap footer-inner">
+    <img src="b.jpg" alt="Banco de México" class="footer-logo" onerror="this.style.display='none'">
     <p>Fuente: Consultas del Artículo IV del FMI a México (2015–2025), sección de recomendaciones de política monetaria, y notas de postura de las autoridades. Clasificación de categoría, nivel de acuerdo y análisis de persistencia elaborados para este análisis.</p>
   </div>
 </footer>
 
-<script src="app.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
